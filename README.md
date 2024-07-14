@@ -1,2 +1,11 @@
-# OneShot-TPE-Russian-Translation
- Русский перевод OneShot: The Pancake Episode
+# Русский перевод [OneShot: The Pancake Episode](https://futurecatgames.itch.io/oneshot-pancake-episode)
+
+**Внимание**: Перевод готов не полностью.
+
+# Установка
+
+* Скачайте архив репозитория
+* Распакуйте скачанный архив в папку игры, где так же, как в архиве, есть папка Languages. Сделайте это с заменой файлов.
+* Запустите игру
+* Выберите русский язык в настройках
+* Готово!
