@@ -1,0 +1,3301 @@
+# Русский перевод OneShot TPE
+
+msgid ""
+msgstr ""
+
+# Language code
+msgid "ru"
+msgstr "Русский"
+
+#. actor name
+#: Actors:1
+msgid "Niko"
+msgstr "Нико"
+
+#. actor name
+#: Actors:2
+msgid "Alula"
+msgstr "Алула"
+
+#. actor name
+#: Actors:3
+msgid "Rue"
+msgstr "Рю"
+
+#. actor name
+#: Actors:4
+msgid "Silver"
+msgstr "Сильвер"
+
+#. actor name
+#: Actors:5
+msgid "invisible"
+msgstr "невидимый"
+
+#. actor name
+#: Actors:6
+msgid "Plight"
+msgstr "Плайт"
+
+#. actor name
+#: Actors:7
+msgid "Cedric"
+msgstr "Седрик"
+
+#. actor name
+#: Actors:8
+msgid "Proto"
+msgstr "Прото"
+
+#. item name
+#: Items:54
+msgid "DEBUG SAVE"
+msgstr "ОТЛАДОЧНОЕ СОХРАНЕНИЕ"
+
+#. item description
+#: Items:54
+msgid "USE THIS TO SAVE"
+msgstr "ИСПОЛЬЗУЙТЕ ЭТО ДЛЯ СОХРАНЕНИЯ"
+
+#. item name
+#: Items:79
+msgid "Pancake Recipe"
+msgstr "Рецепт блинов"
+
+#. item description
+#: Items:79
+msgid "How to make mama's special pancakes!"
+msgstr "Как приготовить мамины блины!"
+
+#: Scripts/Window_Item:99
+msgid "No item selected."
+msgstr "Ничего не выбрано."
+
+#: Scripts/Window_Settings:125
+msgid "BGM Volume"
+msgstr "Громкость музыки"
+
+#: Scripts/Window_Settings:126
+msgid "SFX Volume"
+msgstr "Громкость звуков"
+
+#: Scripts/Window_Settings:127
+msgid "Fullscreen"
+msgstr "Полноэкранный режим"
+
+#: Scripts/Window_Settings:128
+msgid "Default movement"
+msgstr "Ход по умолчанию"
+
+#: Scripts/Window_Settings:129
+msgid "Colorblind mode"
+msgstr "Режим для дальтоников"
+
+#: Scripts/Window_Settings:130
+msgid "Skip Text (R)"
+msgstr "Пропустить текст (R)"
+
+#: Scripts/Window_Settings:131
+msgid "Frameskip"
+msgstr "Пропуск кадров"
+
+#: Scripts/Window_Settings:132
+msgid "Language"
+msgstr "Язык"
+
+#: Scripts/Window_Settings:133
+msgid "Configure Controls (Press F1)"
+msgstr "Настроить управление (нажмите F1)"
+
+#: Scripts/Window_Settings:145 Scripts/Window_Settings:227 Scripts/Scene_Title:79 Scripts/Scene_Title:139
+msgid "Settings"
+msgstr "Настройки"
+
+#: Scripts/Window_Settings:149 Scripts/Window_Settings:229
+msgid "POT_VERSION"
+msgstr "Русский перевод, версия 1"
+
+#: Scripts/Window_Settings:179 Scripts/Window_Settings:191 Scripts/Window_Settings:197 Scripts/Window_Settings:203
+msgid "ON"
+msgstr "ВКЛ."
+
+#: Scripts/Window_Settings:181 Scripts/Window_Settings:193 Scripts/Window_Settings:199 Scripts/Window_Settings:205
+msgid "OFF"
+msgstr "ВЫКЛ."
+
+#: Scripts/Window_Settings:185
+msgid "RUN"
+msgstr "БЕГ"
+
+#: Scripts/Window_Settings:187
+msgid "WALK"
+msgstr "ХОДЬБА"
+
+#: Scripts/Window_NameInput:117
+msgid "Press X to delete characters (default controls)"
+msgstr "Нажмите X, чтобы удалить символы (управление по умолчанию)"
+
+#: Scripts/Window_MainMenu:135
+msgid "You cannot fast travel right now."
+msgstr "В данный момент вам недоступно быстрое перемещение."
+
+#: Scripts/Scene_Title:78 Scripts/Scene_Title:138
+msgid "Start"
+msgstr "Начать"
+
+#: Scripts/Scene_Title:81 Scripts/Scene_Title:141
+msgid "Exit"
+msgstr "Выйти"
+
+#: Scripts/Scene_Title:84 Scripts/Scene_Title:144
+msgid "..."
+msgstr "…"
+
+#: Scripts/i18n_Language:30 Maps/Red sky/Cafe/Cafe inside/Kitchen/EV035:1:6:choice:0 Maps/Red sky/Cafe/Cafe inside/Kitchen/EV035:2:10:choice:0
+msgid "Yes"
+msgstr "Да"
+
+#: Scripts/i18n_Language:30 Maps/Red sky/Cafe/Cafe inside/Kitchen/EV035:1:6:choice:1 Maps/Red sky/Cafe/Cafe inside/Kitchen/EV035:2:10:choice:1
+msgid "No"
+msgstr "Нет"
+
+#: Scripts/i18n_English:39
+msgid "Англ."
+msgstr "Англ."
+
+#: Scripts/i18n_English:39
+msgid "Рус."
+msgstr "Рус."
+
+#: Scripts/i18n_English:60
+msgid "Upper"
+msgstr "Верхний"
+
+#: Scripts/i18n_English:60
+msgid "Lower"
+msgstr "Нижний"
+
+#: Scripts/Script:19
+msgid "NAME_SWEARS"
+msgstr "ИМЕНА_РУГАТЕЛЬСТВА"
+
+#: Scripts/Script:28
+msgid "NAME_NIKOS"
+msgstr "ИМЕНА_НИКО"
+
+#: Scripts/Script:37
+msgid "NAMES_LIKE_NIKO"
+msgstr "ИМЕНА_ПОДОБНЫЕ_НИКО"
+
+#: Scripts/Script:46
+msgid "NAMES_LIKE_MOMDAD"
+msgstr "ИМЕНА_ПОДОБНЫЕ_МАМАПАПА"
+
+#: Scripts/Script:55
+msgid "NAMES_GROSS"
+msgstr "ИМЕНА_МЕРЗКИЕ"
+
+#: Scripts/EdText:3
+msgid "Do you understand what this means?"
+msgstr "Вы понимаете, что оно значит?"
+
+#: CommonEvents/DEBUG SAVE:0:choice:0
+msgid "SAVE?"
+msgstr "СОХРАНИТЬ?"
+
+#: CommonEvents/DEBUG SAVE:0:choice:1
+msgid "LOAD"
+msgstr "ЗАГРУЗИТЬ"
+
+#: CommonEvents/DEBUG SAVE:0:choice:2
+msgid "REAL LOAD"
+msgstr "ПО-НАСТОЯЩЕМУ ЗАГРУЗИТЬ"
+
+#: CommonEvents/DEBUG SAVE:0:choice:3
+msgid "NO"
+msgstr "НЕТ"
+
+#: CommonEvents/plight is waiting:4:text
+msgid "@plight_worry 1 minute."
+msgstr "@plight_worry 1 минуту."
+
+#: CommonEvents/plight is waiting:7:text
+msgid "@plight_worry \\v[29] minutes."
+msgstr "@plight_worry \v[29] минут."
+
+#: CommonEvents/plight is waiting:14:text
+msgid "@plight_worry 1 minute and 1 second."
+msgstr "@plight_worry 1 минуту и 1 секунду."
+
+#: CommonEvents/plight is waiting:17:text
+msgid "@plight_worry \\v[29] minutes and 1 second."
+msgstr "@plight_worry \v[29] минут и 1 секунду."
+
+#: CommonEvents/plight is waiting:23:text
+msgid "@plight_worry 1 minute and \\v[30] seconds."
+msgstr "@plight_worry 1 минуту и \v[30] секунд."
+
+#: CommonEvents/plight is waiting:26:text
+msgid "@plight_worry \\v[29] minutes and \\v[30] seconds."
+msgstr "@plight_worry \v[29] минут и \v[30] секунд."
+
+#: CommonEvents/ling random dialogue:3:text
+msgid "@niko Pancakes are MY favorite food,\\> \\@niko_speak but what's yours?"
+msgstr "@niko Блинчики — МОЯ любимая еда,\> \@niko_speak а какая твоя?"
+
+#: CommonEvents/ling random dialogue:4:text
+msgid "@ling_hm Good question!\\>\\n\\@ling I'm not sure if I have one..."
+msgstr "@ling_hm Вопрос хороший!\>\n\@ling Не уверен, что знаю на него ответ…"
+
+#: CommonEvents/ling random dialogue:5:text
+msgid "@ling_smile ...because it changes all the time!"
+msgstr "@ling_smile …ведь, что не съем, всё кажется любимым!"
+
+#: CommonEvents/ling random dialogue:9:text
+msgid "@ling Have you ever had steamed buns, Niko?"
+msgstr "@ling Нико, ты когда-нибудь пробовал паровые булочки?"
+
+#: CommonEvents/ling random dialogue:10:text
+msgid "@ling_smile I've been making them a lot lately!"
+msgstr "@ling_smile В последнее время я часто их готовлю!"
+
+#: CommonEvents/ling random dialogue:11:text
+msgid "@niko_speak I've only heard of them!\\>\\n\\@niko5 Is it like bread?"
+msgstr "@niko_speak Я только слышал о них!\\>\\n\\@niko5 Они же как хлеб?"
+
+#: CommonEvents/ling random dialogue:12:text
+msgid "@ling Kinda! But most of them have things inside."
+msgstr "@ling Вроде того! Но в большинстве из них кроме того есть и что-то внутри."
+
+#: CommonEvents/ling random dialogue:13:text
+msgid "@niko2 Bread has things inside it too!"
+msgstr "@niko2 Но в хлебе тоже есть что-то внутри!"
+
+#: CommonEvents/ling random dialogue:14:text
+msgid "@niko_83c Like flour."
+msgstr "@niko_83c Например, мука."
+
+#: CommonEvents/ling random dialogue:18:text
+msgid "@ling_hm Sometimes I like to mix sugar in my water before I drink it."
+msgstr "@ling_hm Иногда мне нравится добавлять сахар в воду перед тем, как её пить."
+
+#: CommonEvents/ling random dialogue:19:text
+msgid "@niko_83c I do that with syrup and milk!"
+msgstr "@niko_83c Я так делаю с сиропом и молоком!"
+
+#: CommonEvents/ling random dialogue:23:text
+msgid "@ling_oh I gotta admit, I had trouble finding hazelnut flour... \\>\\@ling_smile So I just made my own!"
+msgstr ""
+
+#: CommonEvents/ling random dialogue:24:text
+msgid "@niko_speak Oh, that's what mama does too!"
+msgstr ""
+
+#: CommonEvents/ling random dialogue:25:text
+msgid "@niko5 She uses a motor and pesto for it."
+msgstr ""
+
+#: CommonEvents/ling random dialogue:26:text
+msgid "@proto1b [Mortar and pestle.]"
+msgstr ""
+
+#: CommonEvents/ling random dialogue:27:text Maps/Red sky/Cafe/Cafe inside/Kitchen/EV020:3:80:text
+msgid "@niko_eyeclosed ...I knew that!"
+msgstr ""
+
+#: CommonEvents/ling random dialogue:28:text
+msgid "@ling_smile I just use a food processor!"
+msgstr ""
+
+#: CommonEvents/ling random dialogue:29:text
+msgid "@ling_hm You think it would work with almond flour too?"
+msgstr ""
+
+#: CommonEvents/ling random dialogue:30:text
+msgid "@niko_speak Probably!"
+msgstr ""
+
+#: CommonEvents/ling random dialogue:31:text
+msgid "@niko_eyeclosed But I like hazelnuts!"
+msgstr ""
+
+#: CommonEvents/ling random dialogue:34:text
+msgid "@niko I know fire is dangerous, but I like looking at it!"
+msgstr ""
+
+#: CommonEvents/ling random dialogue:35:text
+msgid "@ling_smile I know!"
+msgstr ""
+
+#: CommonEvents/ling random dialogue:36:text
+msgid "@ling Did you know that you can start a fire with just sunlight and a magnifying glass?"
+msgstr ""
+
+#: CommonEvents/ling random dialogue:37:text
+msgid "@niko_pancakes REALLY??"
+msgstr ""
+
+#: CommonEvents/ling random dialogue:38:text Maps/Red sky/Cafe/Cafe inside/Kitchen/EV017:3:3:text
+msgid "@ling_smile Yup!"
+msgstr ""
+
+#: CommonEvents/ling random dialogue:39:text
+msgid "@ling But don't try it on your own, okay?"
+msgstr ""
+
+#: CommonEvents/ling random dialogue:40:text
+msgid "@niko_eyeclosed Of course not!"
+msgstr ""
+
+#: CommonEvents/ling random dialogue:41:text
+msgid "@niko5 (But for some reason, all of a sudden I wish I still had the sun...)"
+msgstr ""
+
+#: CommonEvents/ling random dialogue:42:text
+msgid "@proto2 [I'm surrounded by lunatics.]"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:1:1:text
+msgid "@ling_smile This is the kitchen!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:1:2:text
+msgid "@ling I cleaned it up pretty good.\\> \\@ling_smile You'd never know that we had a fire last week!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:1:3:text
+msgid "@niko_what Another one?"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:1:4:text
+msgid "@ling_sigh Right?"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:1:5:text
+msgid "@ling_hm Robots are surprisingly flammable."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:1:text
+msgid "@ling_hm2 My coworkers aren't here because they're still getting repaired for fire damage, so we won't have extra help today."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:2:text
+msgid "@ling Do you think you can handle it?"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:3:text
+msgid "@niko_speak Of course! I help mama out in the kitchen all the time!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:4:text
+msgid "@niko_pancakes ESPECIALLY when making pancakes!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:5:text
+msgid "@niko_83c I even wrote down the recipe!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:11:text
+msgid "@ling_shock Whoa! So many pages!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:12:text
+msgid "@ling_hm And... surprisingly legible (for crayon)."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:13:text
+msgid "@niko_eyeclosed Like I said, these pancakes are VERY special! So I wrote a lot!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:14:text
+msgid "@niko_pancakes It takes mama a long time to make, start to finish!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:15:text
+msgid "@niko_speak She even makes the syrup herself!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:16:text
+msgid "@ling_smile Wow! \\>\\@ling Sounds like a lot of work!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:17:text
+msgid "@niko_eyeclosed Sometimes... in life.... you gotta work hard..."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:18:text
+msgid "@ling Oh!\\> It says here that we would need \"cups\" of things?"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:19:text
+msgid "@ling_hm What are....\\> \"cups\"?"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:20:text
+msgid "@niko_speak ..."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:21:text
+msgid "@ling_oh ..."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:22:text
+msgid "@niko_what2 Measuring...\\> cups?"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:23:text
+msgid "@ling_shock You have to measure cups?"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:24:text
+msgid "@ling_hm2 ...not sure if I get it!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:25:text
+msgid "@niko_what ...\\>don't you cook for your job?"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:26:text
+msgid "@niko_what2 How do you cook without measuring cups?\\> Or measuring spoons?"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:27:text
+msgid "@niko_what How do you know how much flour to use?"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:28:text
+msgid "@ling_hm I...\\> weigh it?"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:29:text
+msgid "@niko_speak ...Oh yeah!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:30:text
+msgid "@niko6 I hear that people in the city do that!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:31:text
+msgid "@niko_eyeclosed Sounds like a hassle...\\>\\nThey'd have to use a scale every time they cook...."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:32:text
+msgid "@ling_smile Well, we do live in a city!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:33:text
+msgid "@niko_speak Nono, not YOUR city, MY city!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:34:text
+msgid "@niko6 The cities we have back home!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:35:text
+msgid "@ling Right!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:36:text
+msgid "@niko5 Using a scale all the time sounds hard!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:37:text
+msgid "@niko_eyeclosed It'd be much easier if we had measuring cups and spoons..."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:38:text
+msgid "@ling_oh I still don't know what those are, though!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:39:text
+msgid "@ling_hm Like, amount-wise."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:40:text
+msgid "@niko5 ...Maybe we need to get some help."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:41:text
+msgid "@niko_eyeclosed Hold on."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:54:text
+msgid "@ling_smile ...Oh, you brought a friend!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:55:text
+msgid "@niko_speak Yup! And he's willing to help us!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:56:text
+msgid "@proto2b [\"Willing\" isn't exactly the right word here.]"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:57:text Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:7:38:text
+msgid "@niko_83c ..."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:3:4:text
+msgid "@ling2 Oh, hello!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:3:5:text
+msgid "@ling I don't think I've seen you around before.\\>\\n\\@ling_smile Nice to meet you!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:3:8:text
+msgid "@proto2 [Don't get your hopes up.\\>\\n\\@proto1c I don't DO \"nice\".]"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:3:9:text
+msgid "@niko_83c That's just what he wants you to think!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:3:10:text
+msgid "@proto_jealous [Hush.]"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:3:16:text
+msgid "@niko_speak Now that Proto's here to help us, we can continue!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:3:21:text
+msgid "@ling_smile For those of you following along, you would need a gram scale!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:3:22:text
+msgid "@niko_speak But if you have measuring cups and spoons like I do at home, you could use those instead!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:3:23:text
+msgid "@niko_83c It would probably be a lot easier!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:3:24:text
+msgid "@ling Next up is ingredients!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:3:28:text
+msgid "@ling_smile Since this recipe is so long, we should probably split it into 3 parts!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:3:31:text
+msgid "@ling_hm It kinda IS 3 recipes in one..."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:3:32:text Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:4:7:text
+msgid "@niko_speak That's what mama does!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:3:33:text
+msgid "@niko_eyeclosed You have to do it in a specific order for the best results!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:3:34:text
+msgid "@ling Okay! I'll go get everything ready!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:3:35:text
+msgid "@ling_hm (...quite the list we have here)"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:4:3:text
+msgid "@niko5 ...I don't really know the other steps because it's on a stove."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:4:4:text
+msgid "@ling_smile Ok!\\> I'll take over then!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:4:5:text
+msgid "@ling_hm Oh... right, we don't have the regular griddle right now.\\> It was damaged in the fire."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:4:6:text
+msgid "@ling_smile I'll just have to make these in the pan!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:4:8:text
+msgid "@niko5 She uses a really heavy black pan for these.\\>\\nI think it's called a... \\>\\@niko6 cat's iron pan?"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:4:9:text
+msgid "@ling_smile A \"cast\" iron pan?"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:4:10:text
+msgid "@niko_speak That's the one!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:4:11:text
+msgid "@niko_eyeclosed Silly me....\\> We are not cats."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:4:12:text
+msgid "@niko_speak Oh! And she adds a ton of butter to it!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:4:13:text
+msgid "@ling_hm We only have stainless steel pans right now, \\>\\@ling so butter would definitely help it not stick to the pan!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:4:14:text
+msgid "@ling_sigh Though that might not make very smooth looking pancakes, butter tends to make it look more bubbly."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:4:15:text
+msgid "@niko_pancakes But it'll taste great!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:4:16:text
+msgid "@niko_83c I'd eat a stick of butter by itself if I could!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:4:17:text
+msgid "@ling_smile Well... we probably won't need THAT much butter for this batch!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:4:33:text
+msgid "@ling_hm Hmm... Since I usually make pancakes on a big nonstick griddle, I might be a little rusty doing it the old fashioned way..."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:4:34:text
+msgid "@ling_smile Unlike this pan, which doesn't rust because it's made of steel!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:4:35:text
+msgid "@niko_83c Hehe!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:4:37:text
+msgid "@ling_hm2 I'll start heating up the pan on medium heat with some butter."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:4:38:text
+msgid "@proto2 [About 4 or 5 out of 9 on a standard stove.]"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:4:39:text
+msgid "@ling Give it maybe a couple minutes, then add a drop of water to the pan. If it sizzles, that means the pan is hot enough!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:4:40:text
+msgid "@niko_eyeclosed Scary..."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:4:41:text
+msgid "@ling Then you lower the heat down a notch (to around 3) and...\\>\\n\\@ling_hm How much batter does your mom normally use?"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:4:42:text
+msgid "@niko5 Let's see.... \\>\\@niko6 About a third of a cup?"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:4:43:text
+msgid "@proto_eyeclosed [Conversion data for pancake batter not found in database.]"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:4:47:text
+msgid "@niko_speak Enough batter to make a pancake about 4 inches across!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:4:48:text
+msgid "@niko5 So we'll end up with 5 or 6 pancakes."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:4:49:text
+msgid "@niko6 You can make em bigger, \\>\\@niko_eyeclosed but they'll be harder to flip."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:4:50:text
+msgid "@ling Ok, first pancake down, let's wait about 5 minutes for that to cook!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:4:54:text
+msgid "@ling Then you can slide a spatula under it.\\> If it feels solid enough to lift without collapsing, it's ready to flip, and..."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:4:57:text
+msgid "@ling_what ...barely any color, \\>\\@ling_sigh I expected this."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:4:58:text
+msgid "@niko_eyeclosed The first pancake is always ugly..."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:4:59:text
+msgid "@ling Cook it for 4 more minutes on the other side, flip it, and.... \\>\\@ling_hm done?"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:4:63:text
+msgid "@ling_sigh Same on the other side too… I guess the pan isn’t hot enough yet."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:4:64:text
+msgid "@niko_speak That’s okay!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:4:65:text
+msgid "@niko_83c The messiah shall accept the ugly pancake as sacrifice."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:4:68:text
+msgid "@ling_smile Now to make the rest!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:4:69:text
+msgid "@niko_crumbs Don't forget to add more butter between each pancake!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:4:70:text
+msgid "@ling_hm2 I'll crank the heat up a notch to 4 this time, maybe this'll help it brown better."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:4:71:text
+msgid "@ling_hm I don't want to turn it up too high because it might burn."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:4:72:text
+msgid "@niko_crumbs Nothing's sadder than a burned pancake!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:4:73:text
+msgid "@ling_smile Every stove is different, though, so these definitely aren't hard numbers!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:4:76:text
+msgid "@ling Oh! This pancake turned out nicer!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:4:77:text
+msgid "@ling_hm But the pan is too hot now, so if I add more butter now it'll explode."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:4:78:text
+msgid "@niko2 Scary!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:4:82:text
+msgid "@proto2 [Because butter is an emulsion of fat and water, both of which do not mix with each other.]"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:4:83:text
+msgid "@proto1c [The explosions are caused by the water rapidly turning into steam under high temperatures.]"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:4:84:text
+msgid "@ling_smile Yup! That's why you don't put out a grease fire with water!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:4:89:text
+msgid "@ling ...I'll lower the heat back to 3 for now. \\>\\@ling_hm Guess we can just adjust the heat as we cook the rest."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:4:103:text
+msgid "@ling_smile Aaaand done!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:9:1:text
+msgid "@ling_hm I should probably start the coffee machines..."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:9:2:text
+msgid "@ling Do you want any, Niko?"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:9:3:text
+msgid "@niko_eyeclosed No thanks!\\>\\n\\@niko_speak Coffee is for grownups!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:9:4:text
+msgid "@niko_speak I heard it's really bitter!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:9:5:text
+msgid "@ling Only if you drink it black!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:9:6:text
+msgid "@ling_smile You might like it in a decaf hazelnut cappucino or mocha latte, though!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:9:7:text
+msgid "@niko_eyeclosed I only understood one of those words!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:9:8:text
+msgid "@alula I like it black!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV002:1:1:text
+msgid "@ling This is the storage room!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV002:1:2:text
+msgid "@ling_oh It's cold, so you shouldn't go in!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV002:2:1:text
+msgid "@niko This is the... storage room?"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:1:2:text
+msgid "@niko_speak It's the fridge!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:1:5:text
+msgid "@ling That's a fridge!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:2:1:text
+msgid "@niko_speak A fancy coffee machine!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:2:2:text
+msgid "@niko_eyeclosed Coffee is for grownups."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:3:1:text
+msgid "@niko_eyeclosed I'm not allowed to use the stove by myself!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:4:2:text
+msgid "@niko_speak It's the sink!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:4:5:text
+msgid "@ling That's the sink!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:5:1:text
+msgid "@niko These are mixing bowls for making pancake batter."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:5:2:text
+msgid "@niko_eyeclosed We should make this after we make the candied hazelnuts and syrup!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:5:3:text
+msgid "@niko_speak The pancakes are way better when they're fresh off the pan!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:2:text
+msgid "@niko_speak These are hazelnuts!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:3:text
+msgid "@niko Mama always starts with this step, where she turns hazelnuts into hazelnut candy."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:4:text
+msgid "@niko6 (you sprinkle them on top of the pancakes later)"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:5:text
+msgid "@niko_eyeclosed She also says this recipe is pretty dangerous for a kid! \\>\\n...so I normally only help with the first steps."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:11:text
+msgid "@niko_speak First, I cut a piece of parchment paper with scissors and put it on a baking pan, or anything that's heat-proof."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:12:text
+msgid "@niko5 Then, you need to get a knife and cutting board."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:13:text
+msgid "@niko_eyeclosed I'm not old enough to use knives on my own either so you'll have to do this part."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:14:text
+msgid "@ling_smile Okay!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:17:text
+msgid "@niko_speak Take about half a cup of hazelnuts-"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:18:text
+msgid "@proto2 [65 grams.]"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:20:text
+msgid "@niko_speak -and cut them up like this!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:21:text
+msgid "@niko Then you pick out all these big pieces. \\>\\n\\@niko_eyeclosed You don't want the crumbs because they'll burn!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:22:text
+msgid "@niko_83c You can save the crumbs and just mix it with the hazelnut flour, though!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:23:text
+msgid "@ling_smile Smart!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:26:text
+msgid "@niko_speak Now you need a frying pan!\\>\\n\\@niko_83c But not for pancakes!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:28:text
+msgid "@niko Toast the hazelnut pieces on the pan on low or medium heat for 5 minutes until they turn brown and smell nice."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:29:text
+msgid "@niko_speak Careful though! You don't want it to burn!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:30:text
+msgid "@ling_smile They won't burn if I'm stirring them the whole time!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:35:text
+msgid "@ling2 Oh! I think it's just about done!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:36:text
+msgid "@niko_speak Whoa! That's fast!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:37:text
+msgid "@niko6 But it's only been 3 minutes..."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:38:text
+msgid "@ling_smile All stoves and pans are a little different, so they heat up at different speeds!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:42:text
+msgid "@niko_speak Ok, then you turn off the heat and dump out all the hazelnuts onto a plate or bowl."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:43:text
+msgid "@ling_smile ...or just the counter if it's clean!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:44:text
+msgid "@niko6 Then you wipe down the pan really good with a damp towel to get rid of all the burnt bits..."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:45:text
+msgid "@ling_smile You can put the pan back on the warm stove to evaporate off the water!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:46:text
+msgid "@ling You need the pan dry for the next step."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:49:text
+msgid "@niko Now the skin should be loose on the hazelnut pieces, so you can rub the pieces between your hands to get all the skin off!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:50:text
+msgid "@niko6 Are they cool enough to touch yet?"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:51:text
+msgid "@ling_smile Yeah!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:52:text
+msgid "@niko_speak Ohh lemme do it! Mama always lets me do this part!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:53:text
+msgid "@niko_83c I like to use my sleeves!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:54:text
+msgid "@niko5 ...Wait, but mama isn't around to wash my coat afterwards."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:55:text
+msgid "@niko_eyeclosed If you use your bare hands, it'll probably take longer..."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:58:text
+msgid "@ling_smile Why not just use a towel?"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:59:text
+msgid "@niko_speak Smart!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:60:text
+msgid "@niko_eyeclosed But not all of the skin will come off and that's okay."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:64:text
+msgid "@niko Then put the hazelnut pieces back into the pan, just like last time, don't put in any crumbs!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:65:text
+msgid "@ling I'll just throw the crumbs away this time, since it's mostly just skin and burnt bits anyway..."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:66:text
+msgid "@niko Then you add a quarter cup of sugar to the pan!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:67:text
+msgid "@proto2 [50 grams.]"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:68:text
+msgid "@niko_speak Now turn the pan on medium heat to melt the sugar while stirring the pan."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:72:text
+msgid "@niko_eyeclosed Mama says melted sugar is super hot, so it can really hurt if you touch it!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:84:text
+msgid "@niko I'll stay over here."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:85:text
+msgid "@niko_eyeclosed I can't believe something as tasty as sugar can be so dangerous!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:91:text
+msgid "@niko2 The sugar should start to melt at around 5 minutes."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:92:text
+msgid "@ling It might be different for this stove, though!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:93:text
+msgid "@niko5 Once it melts, stir it even more.\\>\\n\\@niko_speak You want to melt all the sugar and coat all the hazelnut pieces with it."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:94:text
+msgid "@niko5 Mama usually keep it on the stove for another 3 minutes or so, for all the sugar to melt."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:95:text
+msgid "@ling Ok! l'll keep stirring!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:96:text
+msgid "@niko2 Be careful, okay?"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:97:text
+msgid "@ling_smile I'll be fine!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:98:text
+msgid "@ling2 ...oh!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:99:text
+msgid "@niko_surprised DID YOU BURN YOURSELF"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:100:text
+msgid "@ling_smile Nope!\\>\\n\\@ling Just surprised it melted as fast as it did!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:101:text
+msgid "@niko_eyeclosed Don't scare me like that...."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:102:text
+msgid "@ling_smile I think it's done, though!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:103:text
+msgid "@niko_speak Okok, take it off the heat!\\> Hurry!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:107:text
+msgid "@niko Then you just dump everything out again, this time onto the parchment paper."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:108:text
+msgid "@ling I'll pour it in a thin layer, since I assume we don't want big clusters that'll be tough to break up later."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:109:text
+msgid "@niko_eyeclosed They'll stick together at least a little bit..."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:110:text
+msgid "@niko_speak And, again, it's REALLY hot, so definitely don't touch it!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:114:text
+msgid "@niko6 But once it's cool, you can chop them up on a cutting board."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:115:text
+msgid "@niko2 Don't try to break them up with your hands, though!\\>\\n\\@niko_speak Sugar can be as sharp as glass!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:116:text
+msgid "@niko_eyeclosed ...Another cruel betrayal by the world's most delicious substance."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:117:text
+msgid "@ling_smile Ok! It's all chopped up now!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:120:text
+msgid "@niko_speak Do you have a jar or airtight container? That'll keep them crunchy while we make the other things!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:121:text
+msgid "@niko6 Otherwise the sugar will get sticky after a while..."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:122:text
+msgid "@niko5 ...Say, why is that?"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:123:text Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:125:text Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:7:36:text
+msgid "@proto1 [...]"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:124:text Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:7:7:text
+msgid "@niko5 ..."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:126:text
+msgid "@proto1b [Why are you looking in my direction.]"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:128:text
+msgid "@niko_83c Because! \\>\\nYou're the smartest guy here!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:129:text
+msgid "@proto_eyeclosed [Sigh.]"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:133:text
+msgid "@proto1 [Because sugar has hygroscopic properties, which means it attracts the water molecules in the air]"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:134:text
+msgid "@proto1 [The water molecules would then disrupt the crystal structure of the hardened sugar you just made.]"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:135:text
+msgid "@proto1b [You heated the sugar up to about 150 degrees celsius, also referred to the \"hard crack\" stage, in this state, the sugar is hard and brittle.]"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:136:text
+msgid "@ling_smile And crunchy!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:137:text
+msgid "@proto1c [But as the hardened sugar continues to pull moisture from the air (and thus disrupting its crystal structure), it would lose its brittleness.]"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:138:text
+msgid "@proto2 [Water is able to do this because it is a polar molecule, which means that it has two differently charged regions.]"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:139:text
+msgid "@proto2b [The oxygen atom holds a partially negative charge while the two hydrogen atoms hold a partially positive charge.]"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:140:text
+msgid "@proto_eyeclosed [This polarity gives water the ability to attract other polar molecules.]"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:141:text
+msgid "@proto1c [And not only that, the pair of hydrogen bonds in the water molecule also-]"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:142:text
+msgid "(this goes on for another 5 minutes)"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:143:text
+msgid "@niko_pancakes ...\\>I'm learning words!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:146:text
+msgid "@ling_smile I'll just... go put these in a jar with some silica gel packets."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:149:text
+msgid "@proto2 [Silica gel, a form of silicon dioxide, is extremely porous, with a large surface area that facilitates in moisture absorption and retention.]"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:150:text
+msgid "@proto1c [it has the ability to absorb 40% of its own weight in water and is used as a commercial dessicant.]"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:151:text
+msgid "@proto2 [In our case, it would absorb all the moisture in a small enclosed space (the sealed jar)]"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:152:text
+msgid "@niko6 Good to know!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:7:3:text
+msgid "@niko_speak We're making the syrup next!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:7:4:text
+msgid "@ling_smile Oh! Syrup is super simple to make!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:7:5:text
+msgid "@niko_eyeclosed Well, I think it's scary!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:7:6:text
+msgid "@niko5 Because we're melting sugar again."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:7:8:text
+msgid "@niko_eyeclosed I'll stay over here. \\>\\n(away from the stove)"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:7:14:text
+msgid "@ling_smile You can help me cut the butter, at least!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:7:15:text
+msgid "@ling We'll need two tablespoons of it-"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:7:16:text
+msgid "@proto2 [30 grams.]"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:7:18:text
+msgid "@ling -cut into smaller pieces with a butter knife."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:7:19:text
+msgid "@niko_83c Butter knife is safe for little ol' me!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:7:23:text
+msgid "@ling On my side, we'll need a cup of brown sugar-"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:7:24:text
+msgid "@proto2 [208 grams.]"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:7:25:text
+msgid "@ling which goes in the saucepan, along with half a cup of water."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:7:26:text
+msgid "@proto1 [120 grams.]"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:7:27:text
+msgid "@ling Mix together with a small whisk, then heat over medium high heat while constantly stirring."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:7:31:text
+msgid "@niko_speak Oh! Don't forget to add the maple syrup!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:7:32:text
+msgid "@ling_smile Two tablespoons, right?"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:7:33:text
+msgid "@proto2 [40 grams.]"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:7:34:text
+msgid "@niko5 Say... why do we have to cook this syrup to melt it, when maple syrup always stays a liquid?"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:7:37:text
+msgid "@proto2 [You're looking at me again.]"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:7:42:text
+msgid "@proto1c [Maple syrup contains invert sugars, which are structurally different from table sugar. Invert sugars have better moisture retention properties and do not readily crystalize.]"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:7:43:text
+msgid "@proto2 [It is typical to add invert sugar to syrups made with regular sugar in order to prevent the mixture from recrystalizing, which would lead to a grainy texture.]"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:7:44:text
+msgid "@ling_smile I normally just use honey or corn syrup for that!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:7:45:text
+msgid "@niko_eyeclosed Then it won't taste as good!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:7:46:text
+msgid "@proto_eyeclosed [I wouldn't know the difference regardless.]"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:7:48:text
+msgid "@niko_eyeclosed Oh right you can't eat."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:7:53:text
+msgid "@ling Once the syrup boils, switch the heat down to medium-low, and simmer for about 2 minutes while stirring."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:7:54:text
+msgid "@ling_hm Niko, can you pass me the butter?"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:7:57:text
+msgid "@niko_speak I cut it into little cubes like mama does! \\>\\n\\@niko_83c Is that okay?"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:7:58:text
+msgid "@ling_smile Nice!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:7:59:text
+msgid "@ling It can be any shape!\\>\\nThe pieces just needs to be small enough to melt quickly once added to the syrup."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:7:60:text
+msgid "@niko_speak Stirring it helps it melt faster!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:7:61:text
+msgid "@ling_smile Correct!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:7:62:text
+msgid "@ling Then we just take it off the heat and leave it in the pan to cool down to eating temperature."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:7:63:text
+msgid "@niko_speak Careful not to touch it though!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:7:73:text
+msgid "@niko Stuff for making the syrup."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:7:74:text
+msgid "@niko_eyeclosed We should make this after the hazelnuts!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:7:75:text
+msgid "@niko The hazelnuts are on the cutting board on the counter next to the wall."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:8:2:text
+msgid "@niko It's the pantry."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:8:3:text
+msgid "@niko_eyeclosed No pans inside."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:8:6:text
+msgid "@ling That’s the pantry!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:8:7:text
+msgid "@ling_smile It doesn’t actually have pans in it."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/proto:1:2:text
+msgid "@proto2 [I'm still here for some reason.]"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/proto:1:8:text
+msgid "@niko_83c You never answered the feather question!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/proto:1:9:text
+msgid "@proto_eyeclosed [I refuse to entertain it any further.]"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/proto:1:13:text
+msgid "@proto_jealous [Reduced to a calculator...]"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/proto:1:16:text
+msgid "@proto2 [Frankly, I don't understand why anyone would NOT use the metric system.]"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/proto:1:17:text
+msgid "@niko5 It seems hard!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/proto:1:18:text
+msgid "@niko_eyeclosed Like something you'd do in a lab, not in a kitchen..."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/proto:1:19:text
+msgid "@ling_smile A kitchen is kinda like a lab if you think about it!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/proto:1:20:text
+msgid "@ling Cooking is basically chemistry in its own way."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/proto:1:28:text
+msgid "@proto2 [...This better be good.]"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/proto:1:29:text
+msgid "@niko_speak Of course!\\> I wouldn't call you if it wasn't an emergency!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/proto:1:30:text
+msgid "@niko_eyeclosed A dire, sticky, sugary, delicious emergency."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/proto:1:31:text
+msgid "@proto_eyeclosed [...Sigh.]"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/proto:1:32:text
+msgid "@proto2 [You want me to do gram conversions, don't you.]"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/proto:1:33:text
+msgid "@niko_83c ...maybe."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/proto:1:34:text
+msgid "@proto_jealous [...so much for this not being a pain in the-]"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/proto:1:35:text Maps/Red sky/Cafe/Cafe inside/Kitchen/EV020:2:36:text
+msgid "@proto2 [...]"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/proto:1:36:text
+msgid "@proto1c [...Assuming that you do not need perfect conversions, I should be able to help.]"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/proto:1:37:text
+msgid "@proto2 [This world is only calibrated to the metric system, and my database on other units only has a limited sample size that does not account for various contingencies.]"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/proto:1:38:text
+msgid "@proto2 [So it might not be exactly-]"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/proto:1:39:text
+msgid "@niko_speak How much does a cup of flour weigh?"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/proto:1:40:text
+msgid "@proto2 [120 grams, roughly.]"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/proto:1:41:text
+msgid "@niko_pancakes Whoa!! You answered so fast!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/proto:1:42:text
+msgid "@proto_eyeclosed [A simple query like that does not take long to-]"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/proto:1:43:text
+msgid "@niko_speak How much does two- no, three cups of water weigh?"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/proto:1:44:text
+msgid "@proto2 [720 grams.]"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/proto:1:45:text
+msgid "@niko5 How about... \\>\\@niko6 half a cup of.... \\>\\@niko_83c beans....?"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/proto:1:46:text
+msgid "@proto1b [Depends on the bean.]"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/proto:1:47:text
+msgid "@niko5 Uh, um.... \\>\\@niko_speak Pinto!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/proto:1:48:text
+msgid "@proto1b [70 grams and why do you even need beans to make pancakes.]"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/proto:1:49:text
+msgid "@niko_speak How about... \\>\\@niko5 one hundred cups of ice cream?"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/proto:1:50:text
+msgid "@niko_83c (Vanilla.)"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/proto:1:51:text
+msgid "@proto1b [21400 grams or 21.4 kilograms, are you having fun?]"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/proto:1:52:text
+msgid "@niko_83c ...is a kilogram of steel heavier than a kilogram of feathers?"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/proto:1:53:text
+msgid "@proto_gasp2 [Do NOT test my patience.]"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV013:2:1:text
+msgid "@niko It’s a cutting board with some hazelnut crumbs still stuck to it."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV014:2:1:text
+msgid "@niko_speak These are for later!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV014:2:2:text
+msgid "@niko_eyeclosed ...even though I really want to eat them now."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV015:1:1:text
+msgid "@niko_speak Frying pan!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV015:1:2:text
+msgid "@niko Makes pancakes."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV017:2:1:text
+msgid "@niko_speak It's still hot! I should leave it alone."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV017:3:2:text
+msgid "@niko_speak Are we just about ready to put everything together?"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV017:3:4:text
+msgid "@niko_pancakes LEMME DO IT!!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV017:3:10:text
+msgid "@niko_83c Ok ok, so we stack the pancakes and add a square of butter to it, like this!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV017:3:11:text
+msgid "@niko And then..."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV017:3:12:text
+msgid "@niko5 ...where's the syrup?"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV017:3:16:text
+msgid "@ling It's over here! (on the stove)"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV017:3:17:text
+msgid "@niko_eyeclosed Back in the danger zone..."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV017:3:18:text
+msgid "@ling_hm It was starting to congeal so I'm warming it back up."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV017:3:19:text
+msgid "@ling_hm2 Caramel syrups tend to solidify after a while...\\>\\n\\@ling_hm Especially in our case, since it's not a true caramel so it'll get gritty as it cools."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV017:3:20:text
+msgid "@ling Nothing a few minutes on the stove can't fix, though!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV017:3:21:text
+msgid "@ling_hm But you have to stir it the entire time or it might burn."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV017:3:22:text
+msgid "@niko_what Yuck!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV017:3:26:text
+msgid "@niko Ok then we pour the warm (not burnt) syrup over the top, and sprinkle the candy hazelnuts on top of that."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV017:3:27:text
+msgid "@niko_pancakes Aaaaand done!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV017:3:40:text
+msgid "@niko_83c Now... Normally I would eat the whole thing myself, but..."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV017:3:41:text
+msgid "@niko_pancakes You guys worked so hard on this!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV017:3:47:text
+msgid "@niko_83c So we should all share!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV017:3:48:text
+msgid "@proto2b [I cannot eat.]"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV017:3:49:text
+msgid "@niko_eyeclosed ...oh right."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV017:3:50:text
+msgid "@niko_83c Oh well more for me."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV017:3:51:text
+msgid "@ling_smile I'll just eat the extra pancake that didn't fit the stack!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV017:3:52:text
+msgid "@niko5 But that's the sad one!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV017:3:53:text
+msgid "@niko_eyeclosed Sad, lonely, undecorated..."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV017:3:55:text
+msgid "@niko_pancakes ...nevermind."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV017:3:56:text
+msgid "@ling_smile Professional at work!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV017:3:60:text
+msgid "@ling_smile ...you wanna eat the rest of these at a table?"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV017:3:61:text
+msgid "@niko_crumbs Yeah!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV017:3:62:text
+msgid "@ling Alright, then let's take a break from the kitchen!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV017:4:1:text
+msgid "@niko_83c The fruit of our labor."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV017:4:2:text
+msgid "@niko5 (...it's not actually fruit.)"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV018:3:1:text
+msgid "@niko It's the syrup."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV020:2:2:text
+msgid "@niko_speak Now we're finally ready to make pancake batter!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV020:2:3:text
+msgid "@niko_83c The main event!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV020:2:4:text
+msgid "@ling_hm Yup... it's a 3-mixing bowl recipe."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV020:2:5:text
+msgid "@niko One bowl for dry ingredients,\\n\\>one bowl for wet ingredients..."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV020:2:6:text
+msgid "@niko_speak And one bowl just for the egg white!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV020:2:7:text
+msgid "@ling_smile That's how you REALLY know it's special, huh?"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV020:2:8:text
+msgid "@ling_hm Because of all the dishes you'll have to clean afterwards."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV020:2:9:text
+msgid "@niko_eyeclosed It's not a labor of love without the labor, as mama always say..."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV020:2:10:text
+msgid "@ling Looks like we'll also need a sifter and a whisk. \\@ling_smile \\>More things to clean later!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV020:2:11:text
+msgid "@niko_speak And a pan! Don't forget the pan!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV020:2:12:text
+msgid "@ling_smile ...Because otherwise it would just be cake?"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV020:2:13:text
+msgid "@niko_eyeclosed Actually it would just be raw."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV020:2:14:text
+msgid "@niko_83c We don't need to use the stove until the end, so I can help out way more this time!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV020:2:21:text
+msgid "@niko_speak The first bowl is the egg white bowl, it needs to be super clean!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV020:2:22:text
+msgid "@niko_eyeclosed No oil, or it'll ruin everything!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV020:2:23:text
+msgid "@ling I like to wipe down the bowl with some lemon juice, just to be sure."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV020:2:25:text
+msgid "@niko5 Then you wanna take an egg and separate out the egg white!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV020:2:26:text
+msgid "@niko_eyeclosed You can't mix ANY egg yolk into the egg white because egg yolks have oil in it."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV020:2:28:text
+msgid "@niko5 ...say,"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV020:2:32:text
+msgid "@proto1 [Because egg white is a pure protein.]"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV020:2:33:text
+msgid "@proto1c [Protein molecules tend to link to each other when partially denatured through mechanical force, such as whisking.]"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV020:2:34:text
+msgid "@proto1b [The whisking process would also introduce a lot of air into the mixture, causing the protein mesh to become a foam.]"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV020:2:35:text
+msgid "@proto1c [Oil molecules would disrupt that mesh structure, causing the foam to collapse.]"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV020:2:37:text
+msgid "@proto1c [...That was what you were going to ask.]"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV020:2:39:text
+msgid "@niko_83c How'd you know?"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV020:2:43:text
+msgid "@niko6 Oh right, back to the eggs"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV020:2:44:text
+msgid "@niko5 I like to suck out the egg yolk with a water bottle... but that sometimes can break the egg yolks."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV020:2:45:text
+msgid "@niko_eyeclosed I can also dig it out with my hands, but then my hands would get slimy..."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV020:2:48:text
+msgid "@ling_smile I just use a separator!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV020:2:49:text
+msgid "@niko_speak Oh!! That's handy!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV020:2:50:text
+msgid "@ling_smile It's handy because then you don't need to use your hands!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV020:2:51:text
+msgid "@niko5 Ok, now we put the yolk in a second bowl (the green one)."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV020:2:52:text
+msgid "@niko6 We can leave the egg white alone for now."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV020:2:53:text
+msgid "@niko_eyeclosed I hope it doesn't get lonely!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV020:2:54:text
+msgid "@niko_83c (It won't because it's just an egg.)"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV020:2:55:text
+msgid "@niko_83c (...half an egg.)"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV020:3:3:text
+msgid "@ling We only need to wait a few more minutes for the batter to be ready, \\>\\@ling_smile we should work on the egg whites now!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV020:3:9:text
+msgid "@niko_eyeclosed Okay, this part is really hard...."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV020:3:11:text
+msgid "@niko_speak You gotta take your whisk and whisk the egg whites a lot, until it turns all white!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV020:3:12:text
+msgid "@niko_eyeclosed It takes mama forever to do this..."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV020:3:16:text
+msgid "@ling_smile An electric whisk will make this a lot easier!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV020:3:17:text
+msgid "@niko_pancakes THAT'S A THING??"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV020:3:18:text
+msgid "@ling_hm ...yeah?"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV020:3:19:text
+msgid "@niko_pancakes What is this sorcery..."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV020:3:20:text
+msgid "@ling_smile Electricity!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV020:3:21:text
+msgid "@niko_pancakes That's handy!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV020:3:22:text
+msgid "@ling_smile That's why it's called a \"hand\" mixer!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV020:3:23:text
+msgid "@ling_hm (that's not actually why it's called that)"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV020:3:27:text
+msgid "@ling A couple drops of lemon juice in the egg whites will also help!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV020:3:28:text
+msgid "@niko_speak Ooh! Right! Mama does that too!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV020:3:29:text
+msgid "@niko5 I always wondered why that is..."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV020:3:33:text
+msgid "@proto1 [Because acid helps stabilize the protein foam.]"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV020:3:34:text
+msgid "@proto1b [A slightly lower pH would keep the denatured proteins relatively loose, preventing them from folding back up.]"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV020:3:35:text
+msgid "@proto1c [This allows the structure to be able to incorporate more air bubbles, creating a more stable foam.]"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV020:3:36:text
+msgid "@proto_eyeclosed [Traditionally, the acid most commonly used for meringue is cream of tartar.]"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV020:3:37:text
+msgid "@niko_speak Oh! I love tartar sauce!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV020:3:38:text
+msgid "@ling_smile It's great in potato salad!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV020:3:39:text
+msgid "@niko5 Oh, we normally just use it for seafood."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV020:3:40:text
+msgid "@niko_eyeclosed Especially fish! I like fish!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV020:3:41:text
+msgid "@niko_eyeclosed ...and before you say \"cats like fish\", I can assure you that's a coincidence!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV020:3:42:text
+msgid "@niko_83c ...but... maybe that's why they named a famous cat after tartar sauce?"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV020:3:43:text
+msgid "@proto_gasp2 [TARTAR SAUCE IS SOMETHING COMPLETELY UNRELATED]"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV020:3:44:text
+msgid "@proto_gasp2 [...]"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV020:3:45:text
+msgid "@proto1c [The name \"tartar\" in cream of tartar comes from \"potassium bitartrate\", a potassium salt of tartaric acid, which-]"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV020:3:46:text
+msgid "@niko_83c Potassium is a funny word!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV020:3:47:text
+msgid "@proto_gasp2 [A-]"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV020:3:48:text
+msgid "@niko_eyeclosed But it has a bad word in the middle and I don't think I'm allowed to say that..."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV020:3:49:text
+msgid "@ling3 Oh shoot you're right."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV020:3:50:text
+msgid "@ling ...\\>\\@ling_smile pot***ium"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV020:3:51:text
+msgid "@ling (pronounced \"potium\")"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV020:3:52:text
+msgid "@niko_83c ...potium"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV020:3:53:text
+msgid "@niko_83c Haha that sounds like potty-"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV020:3:54:text
+msgid "@proto_gasp2 [LET'S STOP TALKING ABOUT POTASSIUM.]"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV020:3:55:text
+msgid "@ling_smile 'K!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV020:3:56:text
+msgid "@proto_gasp1 [SHUT UP]"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV020:3:58:text
+msgid "@niko_83c ...potty."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV020:3:62:text
+msgid "@ling_hm The egg's at soft peak right now, do I keep going?"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV020:3:65:text
+msgid "@niko_speak Mama usually whisks it until you can turn the bowl upside down!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV020:3:66:text
+msgid "@niko6 ...without anything falling out, of course! \\>\\@niko_eyeclosed Cuz that would just make a huge mess!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV020:3:67:text
+msgid "@ling_smile Stiff peaks it is, then!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV020:3:68:text
+msgid "[half a minute of electric mixer sounds later.]"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV020:3:69:text
+msgid "@ling Aaand it's ready now!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV020:3:70:text
+msgid "@niko_pancakes So fast!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV020:3:71:text
+msgid "@niko_eyeclosed Such is the power of technology..."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV020:3:74:text
+msgid "@niko Okay, now we put the foam in the batter and do the fold-mixing thing again!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV020:3:75:text
+msgid "@niko_eyeclosed But we have to pour the egg foam INTO the batter, not the other way around!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV020:3:78:text
+msgid "@niko Otherwise it might mess up its conscience."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV020:3:79:text
+msgid "@ling_smile ...consistency?"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV020:3:81:text
+msgid "@niko_speak Oh and!\\>\\nYou have to use this batter right away, \\>\\@niko_eyeclosed or it'll go flat over time."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV020:3:82:text
+msgid "@ling_smile Okay! I'll go heat up the stove, then!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV020:3:92:text
+msgid "@niko_speak It's the bowl with the egg whites in it!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV020:3:93:text
+msgid "@niko We don't need to use it yet."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV020:4:1:text
+msgid "@niko It's empty now."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV021:2:9:text
+msgid "@niko_speak Alright, then we take the bowl with the egg yolk and mix it with half a cup of buttermilk!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV021:2:10:text
+msgid "@niko_83c Which is VERY tasty."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV021:2:11:text
+msgid "@proto2 [112 grams.]"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV021:2:12:text
+msgid "@niko You'll want 3 tablespoons of regular milk to go in that too."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV021:2:13:text
+msgid "@proto2 [45 grams.]"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV021:2:14:text
+msgid "@niko_speak Mix it all together and leave that alone too."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV021:2:19:text
+msgid "@niko_83c You can put it next to the first bowl so that it doesn't get lonely!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV021:2:20:text
+msgid "@niko_83c (it won't get lonely it's just milk)"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV021:2:30:text
+msgid "@niko_speak Wrong bowl! \\>\\@niko_eyeclosed We should do things in order."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV021:3:9:text
+msgid "@niko_speak You want to pour in the flour mixture slowly, then mix it with a spatula reeeal gentle!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV021:3:10:text
+msgid "@ling_smile Ah, that's called folding!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV021:3:11:text
+msgid "@ling Where you mix the dry and wet ingredients together in sort of a cutting motion with the spatula."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV021:3:12:text
+msgid "@niko6 If you overmix, the pancakes will get tough!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV021:3:14:text
+msgid "@niko5 Though I don't k-"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV021:3:18:text
+msgid "@proto2 [Because it develops the gluten in the flour.]"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV021:3:19:text
+msgid "@proto1c [Gluten is a mixture of proteins found in wheat flour, which is created when flour is mixed with water and further developed into an elastic network of elastic polymers.]"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV021:3:21:text
+msgid "@niko_speak Thanks!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV021:3:25:text
+msgid "@ling_smile Gluten is great for making bread! \\>\\@ling_hm But not so great if you want to make something softer, like pancakes."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV021:3:26:text
+msgid "@ling_hm2 Some people are also really allergic to gluten, so I gotta clean the kitchen really well for customers with allergies."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV021:3:27:text
+msgid "@niko2 Aww..."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV021:3:28:text
+msgid "@niko_eyeclosed I feel bad for them because they can't have these pancakes...."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV021:3:29:text
+msgid "@ling_hm Maybe they can use gluten free flour?\\>\\nIt might not be the exact same, but..."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV021:3:30:text
+msgid "@niko_speak Maybe!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV021:3:33:text
+msgid "@niko Ok, now we leave the batter alone for about 20 minutes."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV021:3:34:text
+msgid "@proto1c [This gives the baking powder time to activate, and will also hydrate the flour.]"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV021:3:35:text Maps/Red sky/Cafe/Cafe inside/Kitchen/EV021:4:1:text
+msgid "@niko_83c Rest well, batter!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV021:3:45:text
+msgid "@niko We don't need to use this yet."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV021:5:1:text
+msgid "@niko_83c The three mixing bowls have joined forces! \\>\\n\\@niko (The batter is ready now)."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV021:5:2:text
+msgid "@niko_eyeclosed But I can’t fry it myself..."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV022:2:9:text
+msgid "@niko Ok, now we wanna take the sifter and put in half a cup of flour."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV022:2:10:text
+msgid "@proto2 [60 grams.]"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV022:2:13:text
+msgid "@niko_speak Oh! But then I gotta take a tablespoon of flour out."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV022:2:14:text
+msgid "@proto2 [8 grams.\\>\\n\\@proto1c Leaving you with 52 grams of flour.]"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV022:2:15:text
+msgid "@niko_83c Right!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV022:2:19:text
+msgid "@niko Then add a tablespoon of cornstarch."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV022:2:20:text
+msgid "@proto2 [Also 8 grams.]"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV022:2:21:text
+msgid "@niko_speak Then after that, add 2 tablespoons of hazelnut flour.\\>\\n\\@niko_83c The best part!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV022:2:22:text
+msgid "@proto2 [14 grams.]"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV022:2:23:text
+msgid "@niko6 Then 2 tablespoons of brown sugar.\\>\\n\\@niko_83c The other best part!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV022:2:24:text
+msgid "@proto2 [26 grams.]"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV022:2:25:text
+msgid "@niko5 Then 1 teaspoon of baking powder, \\>\\@niko_eyeclosed which does not taste great on its own."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV022:2:26:text
+msgid "@proto2 [5 grams.]"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV022:2:27:text
+msgid "@niko_speak Then finally, a pinch of salt!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV022:2:28:text
+msgid "@proto2 [Less than 1 gram.]"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV022:2:29:text
+msgid "@niko_eyeclosed Don't add too much or the pancakes will be salty!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV022:2:30:text
+msgid "@ling_smile Might still taste good, though!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV022:2:31:text
+msgid "@niko_eyeclosed ...Don't even joke like that."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV022:2:34:text
+msgid "@ling_hm I wasn't joking..."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV022:2:35:text
+msgid "@ling_smile There are salty pancakes out there too, y'know?\\n\\>\\@ling I like to make mine with shredded vegetables, such as-"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV022:2:36:text
+msgid "@niko_eyeclosed I will pretend not to hear you while I sift all this flour."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV022:2:37:text
+msgid "@niko2 Oh!\\> The bigger pieces of hazelnut and some of the brown sugar might not go through the sifter."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV022:2:40:text
+msgid "@niko That's ok, though! Just add it into the flour mix after everything else sifted through."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV022:2:41:text
+msgid "@niko_speak Then you mix it by hand one last time before adding it into the buttermilk mixture."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV022:2:51:text
+msgid "@niko_speak Wrong bowl!\\n\\>\\@niko_eyeclosed We should do things in order."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV022:3:1:text
+msgid "@niko_speak Mix this into the buttermilk!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV022:4:1:text
+msgid "@niko_speak It's empty now."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV023:1:1:text
+msgid "@niko The hazelnut candy we just made, which we’re saving for later!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV024:1:18:text
+msgid "@niko_speak We need to make the pancakes still!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV025:1:1:text
+msgid "@alula_pout Letsee..."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV025:1:2:text
+msgid "@alula Do you got any bread?"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV025:1:8:text
+msgid "@ling Sure, but it's just pre-sliced, not the loaves you guys normally have."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV025:1:9:text
+msgid "@alula_gasp That's even better! Now we don't have to cut it!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV025:1:10:text
+msgid "@alula Ok ok, you gotta cook the bread on a pan over hot coals!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV025:1:14:text
+msgid "@ling_smile We have a toaster!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV025:1:15:text
+msgid "@alula_gasp That's even better!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV025:1:19:text
+msgid "@alula Now get some yogurt and mix in some salt and uh, seasons."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV025:1:20:text
+msgid "@ling_smile Seasons?\\>\\nLike spring and summer?"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV025:1:21:text
+msgid "@alula_speak Haha, of course not, silly!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV025:1:22:text
+msgid "@ling_smile Winter it is!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV025:1:23:text
+msgid "@alula_eyeclosed That's not what I mean and you know it."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV025:1:24:text
+msgid "@ling ...I'm assuming you want sea moss salt?\\>\\nWe got a shipment from the glen a while ago."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV025:1:25:text
+msgid "@ling We also have garlic salt, which tastes similar, but a lot stronger."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV025:1:26:text
+msgid "@alula_gasp GIMME THE GARLICKS"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV025:1:27:text
+msgid "@alula_speak We don't get this much back home!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV025:1:31:text
+msgid "@alula Ok mix the salt with the yogurt, then just spread this on the bread with a spoon!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV025:1:32:text
+msgid "@alula_speak Then I like to rip up some fish into little pieces and put it on top!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV025:1:33:text
+msgid "@alula_eyeclosed ...Smoked fish. Not alive.\\>\\n\\@alula Do you got any?"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV025:1:36:text
+msgid "@ling We have smoked salmon, will that work?"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV025:1:37:text
+msgid "@alula_gasp MY FAVORITE!!!!!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV025:1:38:text
+msgid "@alula Then I like to put some seeds on top of the fish to make it crunchy!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV025:1:39:text
+msgid "@ling_smile Will these artisanal toasted sesame seeds work?"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV025:1:40:text
+msgid "@alula_oh ..."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV025:1:42:text
+msgid "@alula_pout ........"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV025:1:43:text
+msgid "@alula_pout ..............."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV025:1:46:text
+msgid "@alula_eyeclosed Eh I'll take it."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV025:3:1:text
+msgid "@alula_speak That was so much fun!!!!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV025:3:2:text
+msgid "@alula_eyeclosed Too bad we didn't get to karate chop any pans, though..."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV025:3:3:text
+msgid "@ling_smile Please do not do that."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV026:2:1:text
+msgid "@plight_2 So...\\>\\@plight_2b um......"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV026:2:2:text
+msgid "@ling_smile Oh! You wanna make something too?"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV026:2:3:text
+msgid "@plight_worry I was actually just gonna order my regular jug of coffee, but..."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV026:2:4:text
+msgid "@plight_2 ...eh, breakfast won't hurt."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV026:2:5:text
+msgid "@ling_smile Look at you!\\>\\n\\@ling Eating!\\>\\n\\@ling_smile Food!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV026:2:6:text
+msgid "@plight Sigh..."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV026:2:7:text
+msgid "@plight_2b Cover your eyes, kids.\\>\\n\\@plight_worry2 (or your parents might get mad)"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV026:2:14:text
+msgid "@plight_2 Step 1. Toast slice of bread."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV026:2:17:text
+msgid "@plight Step 2. Cover it with butter (room temperature)."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV026:2:21:text
+msgid "@plight Step C. Sprinkle on instant coffee (and sugar to taste)."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV026:2:23:text
+msgid "@plight_2b And done."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV026:2:28:text
+msgid "@plight3 (It tastes okay.)"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV026:2:34:text
+msgid "@plight And that's breakfast."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV026:2:35:text
+msgid "@plight3  For lunch I normally mix the instant coffee into some 3 minute noodles. \\>The cup kind.\\>\\n\\@plight_2 You don't need to add the sugar."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV026:2:36:text
+msgid "@plight_2b Or, if I'm really in a rush, I just put a scoop of coffee into a bag of uncooked-"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV026:2:37:text
+msgid "@ling_smile ...I think you should leave.\\>\\n\\n(the kitchen)"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV027:2:1:text
+msgid "@niko It's a knife.\\> \\@niko_speak Very dangerous!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV035:1:6:text
+msgid "Light the candle?"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV035:1:34:text
+msgid "@ling Oh! While you were gone, I dug this thing out from storage!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV035:1:35:text
+msgid "@niko_speak Ooh what is it?"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV035:1:36:text
+msgid "@ling Why don't you turn on the switch to find out?"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV035:1:54:text
+msgid "@niko_speak ...Oh!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV035:1:55:text
+msgid "@niko_83c A music player!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV035:1:56:text
+msgid "@ling_smile I thought it would be fitting here!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV035:1:57:text
+msgid "@niko Does it play any other songs?"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV035:1:58:text
+msgid "@ling_hm It's only the birthday song, I'm afraid."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV035:1:59:text
+msgid "@niko_eyeclosed Aww... \\>\\nI wanted it to play heavy metal like in the cooking shows..."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV035:1:60:text
+msgid "@niko_83c ...it's also kinda funny that you have to light it on fire every time!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV035:1:61:text
+msgid "@ling_smile Haha I know!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV035:1:62:text
+msgid "@ling I like it though, fire is cool!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV035:1:63:text
+msgid "@niko_83c Fire is hot actually!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV035:1:64:text
+msgid "@proto2 [I think it's a level 3 safety violation and therefore extremely stupid.]"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV035:1:65:text
+msgid "@ling_smile Don't worry, the candle isn't real!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV035:1:66:text
+msgid "@ling Convincing though, right?"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV035:1:67:text
+msgid "@proto2b [Oh.]"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV035:1:68:text
+msgid "@proto1c [Then it's just stupid.]"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV035:2:10:text
+msgid "Blow out the candle?"
+msgstr ""
+
+#: Maps/INIT/init:1:17:text
+msgid "@ling_smile Hi everyone!"
+msgstr "@ling_smile Всем привет!"
+
+#: Maps/INIT/init:1:18:text
+msgid "@ling_smile As you know, it's the 10 year anniversary of OneShot!"
+msgstr ""
+
+#: Maps/INIT/init:1:19:text
+msgid "@ling_oh (...well, the original version, anyway)"
+msgstr ""
+
+#: Maps/INIT/init:1:21:text
+msgid "@ling_smile So I thought I'd decorate the cafe!"
+msgstr ""
+
+#: Maps/INIT/init:1:22:text
+msgid "@ling_hm We opened extra early today, so nobody's shown up yet."
+msgstr ""
+
+#: Maps/INIT/init:1:24:text
+msgid "@niko_83c Except me!"
+msgstr ""
+
+#: Maps/INIT/init:1:32:text
+msgid "@niko_eyeclosed Ok that’s enough."
+msgstr ""
+
+#: Maps/Red sky/Cafe/EV004:1:1:text Maps/Red sky/Cafe/EV006:1:1:text
+msgid "CAFE"
+msgstr ""
+
+#: Maps/Red sky/Cafe/EV007:1:1:text Maps/Red sky/Cafe/EV008:1:1:text
+msgid "MEOW"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/ling:1:1:text
+msgid "@niko_speak I'm here on a very special mission today!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/ling:1:4:text
+msgid "@niko_83c Can you guess what it is?"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/ling:1:5:text
+msgid "@ling_hm2 Hmmm...."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/ling:1:6:text
+msgid "@ling Does it involve... a celebration cake?\\>\\n\\@ling_smile Of the pan variety?"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/ling:1:7:text
+msgid "@niko_pancakes How'd you know?"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/ling:1:8:text
+msgid "@ling_hm You uh.\\..\\..\\. literally told me a minute ago before the camera turned on."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/ling:1:9:text
+msgid "@niko5 Oh right."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/ling:1:12:text
+msgid "@niko_eyeclosed ...Ahem."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/ling:1:13:text
+msgid "@niko Today....\\>\\n\\@niko_speak I will be showing everyone....\\>\\n\\@niko_pancakes how to make mama's special pancakes!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/ling:1:14:text
+msgid "@ling_smile And I'll be-"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/ling:1:15:text
+msgid "@niko_speak And he'll be helping!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/ling:1:16:text
+msgid "@niko_eyeclosed Because he's a grownup and I'm not old enough to use the stove without adult supervision."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/ling:1:17:text
+msgid "@ling_oh ...but didn't you like, set things on fire before?"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/ling:1:20:text
+msgid "@niko_83c I think god counts as adult supervision."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/ling:1:21:text
+msgid "@ling_hm ....yeah that's fair."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/ling:1:22:text
+msgid "@ling Alright, then follow me to the kitchen!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/ling:1:23:text
+msgid "@niko_speak 'kay!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/ling:3:4:text
+msgid "@ling_shock Oh no!\\> I completely forgot we were open early today!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/ling:3:5:text
+msgid "@ling_hm How long... have you guys been waiting?"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/ling:3:6:text
+msgid "@plight_worry2 ..."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/ling:3:8:text
+msgid "@alula Oh I just got here."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/ling:3:9:text
+msgid "@alula_speak Hi Niko!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/ling:3:10:text
+msgid "@niko_speak Hi Alula!\\> Hi.... lamplighter man!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/ling:3:11:text
+msgid "@plight_worry (I have a name...)"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/ling:3:12:text
+msgid "@alula Whatcha guys doing back in the kitchen?"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/ling:3:13:text
+msgid "@niko_pancakes I was teaching Ling how to make pancakes!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/ling:3:14:text
+msgid "@alula_oh But... doesn't Ling already know how to make pancakes?"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/ling:3:15:text
+msgid "@niko_eyeclosed Not these special ones that my mama makes!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/ling:3:16:text
+msgid "@ling_smile And thank you for sharing that with me! I learned a lot today!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/ling:3:17:text
+msgid "@niko_eyeclosed So the master has become the student..."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/ling:3:18:text
+msgid "@ling_hm (...mostly about molecules, but)"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/ling:3:19:text
+msgid "@ling I can see why you like these so much now!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/ling:3:20:text
+msgid "@ling It's a very involved recipe!\\>\\n\\@ling_hm2 Almost more like a cake than a pancake."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/ling:3:21:text
+msgid "@alula_gasp2 Whaaat!! That's so cool!!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/ling:3:22:text
+msgid "@alula ..."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/ling:3:23:text
+msgid "@alula_gasp ME NEXT ME NEXT I GET TO GO NEXT"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/ling:3:24:text
+msgid "@niko_speak Oh! You wanna learn to make these pancakes too?"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/ling:3:25:text
+msgid "@ling2 You might be a little too young...\\n\\>\\@ling_smile Even an older kid like Niko is scared of some parts!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/ling:3:26:text
+msgid "@niko_eyeclosed Hey I wasn't scared! It's just self defense!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/ling:3:27:text
+msgid "@alula Like kung fu?"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/ling:3:28:text
+msgid "@niko_what ...huh?"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/ling:3:29:text
+msgid "@alula_speak Were you karate chopping all the pots and pans because you were scared?"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/ling:3:30:text
+msgid "@niko_what ...what, no??"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/ling:3:31:text
+msgid "@alula ...because I would."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/ling:3:32:text
+msgid "@plight_2b Do you mean like, self... preservation?"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/ling:3:33:text
+msgid "@niko_eyeclosed ...yeah that."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/ling:3:34:text
+msgid "@alula_pout I don't know that word..."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/ling:3:35:text
+msgid "@niko_speak I just don't wanna be near a hot stove!\\>\\n\\@niko_eyeclosed Especially not around sugar lava."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/ling:3:36:text
+msgid "@ling Exactly!\\> Niko was just being responsible!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/ling:3:37:text
+msgid "@alula_gasp2 CAN YOU EAT THE LAVA"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/ling:3:38:text
+msgid "@niko_eyeclosed Absolutely do not eat the lava."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/ling:3:39:text
+msgid "@ling_hm (...and the responsible thing for ME to do is not let Alula anywhere near a stove.)"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/ling:3:40:text
+msgid "@ling_smile We'll.... \\>teach you how to make these pancakes when you're a little (or a lot) older, okay?"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/ling:3:41:text
+msgid "@alula_gasp NO I WANT TO TEACH *YOU* HOW TO MAKE MY FAVORITE FOOD!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/ling:3:42:text
+msgid "@alula It does not have lava."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/ling:3:43:text
+msgid "@ling2 Ohh..."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/ling:3:44:text
+msgid "@ling_smile In that case, sure!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/ling:3:45:text
+msgid "@alula_speak YAAAAY"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/ling:3:46:text
+msgid "@ling_hm (Guess it's open house day in the kitchen...)"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/EV006:1:1:text
+msgid "@niko Milk and sugar."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/EV006:1:2:text
+msgid "@niko_speak I like both!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/EV006:1:3:text
+msgid "@niko_eyeclosed ...but not in coffee."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/EV007:1:1:text
+msgid "@Niko A coffee machine."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/EV007:1:2:text
+msgid "@niko_speak It's nearly full!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/alula:1:8:text
+msgid "@calamus_shock Alula!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/alula:1:9:text
+msgid "@calamus_speak Have you been here this whole time?"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/alula:1:10:text
+msgid "@calamus_sad Don't go running off like that, sheesh!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/alula:1:11:text
+msgid "@alula_speak Sorry! I got hungry."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/alula:1:31:text
+msgid "@alula_gasp2 Foraging food is so easy in the city, though!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/alula:1:32:text
+msgid "@alula_speak The nice guy at the cafe feeds me for free because I am very cute and also a baby."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/alula:1:33:text
+msgid "@calamus_heh Can't argue with that..."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/alula:1:36:text
+msgid "@alula_speak And he gives this guy here free food because he doesn't take care of himself despite being a grownup and his house is probably really messy!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/alula:1:42:text
+msgid "@plight_worry Hey!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/alula:1:43:text
+msgid "@alula Just sayin'!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/alula:1:50:text
+msgid "@magpie_oh Whoa hey what's with all the decorations?"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/alula:1:51:text
+msgid "@magpie_smile Is it someone’s birthday?"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/alula:1:55:text
+msgid "@calamus_speak ...did you just notice?"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/alula:1:60:text
+msgid "@kip_wink I guess you could call it a birthday!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/alula:1:61:text
+msgid "@kip It's the 10 year anniversary!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/alula:1:65:text
+msgid "@magpie_hm Anniversary of what?"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/alula:1:66:text
+msgid "@magpie_smile Someone's wedding? Or"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/alula:1:67:text
+msgid "@kip_heh ...I don't think anyone here is married."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/alula:1:68:text
+msgid "@kip2 It's the anniversary of the original-"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/alula:1:69:text
+msgid "@kip_heh Oh right, you weren't around for that."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/alula:1:70:text
+msgid "@kip_wink That's ok, neither was I!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/alula:1:75:text
+msgid "@george6_fingerguns I was!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/alula:1:78:text
+msgid "@calamus_smile I was!\\>\\n\\@calamus ...I think."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/alula:1:79:text
+msgid "@watcher What are anniversaries but grim reminders that we are inching another year closer to our inevitable demise..."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/alula:1:80:text
+msgid "@watcher (I wasn't around either)"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/alula:1:86:text
+msgid "@plight_worry I have no idea what you guys are talking about."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/alula:1:87:text
+msgid "@mason I'm just here for emotional support."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/alula:1:88:text
+msgid "@watcher Thanks."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/alula:1:94:text
+msgid "@cedric_hmm ....yeah a lot of us got here pretty late didn't we."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/alula:1:95:text
+msgid "@cedric4 Especially me."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/alula:1:101:text
+msgid "@magpie_smile ...Yeah you really lost me there."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/alula:1:102:text
+msgid "@magpie_hm Though it WAS 10 years ago...\\n\\>\\@magpie_smile you think I can remember that far back?"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/alula:1:103:text
+msgid "(he doesn't)"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/alula:1:106:text
+msgid "@magpie_smile But I'm not gonna pass up an excuse to party!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/alula:1:109:text
+msgid "@george6_fingerguns Ayyyyy."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/alula:1:112:text
+msgid "@magpie_smile Ayyyyy."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/alula:1:115:text
+msgid "@magpie_hm Anyway where's all the booze."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/alula:1:125:text
+msgid "@niko_pancakes What a crowd!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/alula:1:132:text
+msgid "@ling_shock I'll say!\\>\\n\\@ling Looks like I got a lot of cooking to do now, huh?"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/alula:1:136:text
+msgid "@niko_pancakes Oh!! I'll help! I'll help!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/alula:1:137:text
+msgid "@niko5 We can make...\\|...\\|... \\>\\@niko_83c more pancakes!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/alula:1:143:text
+msgid "@rue_oh ...pancakes?"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/alula:1:146:text
+msgid "@niko_speak Pancakes!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/alula:1:153:text
+msgid "@george6_fingerguns  Count me IN you know I'm always up for some breakfast for dinner!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/alula:1:156:text
+msgid "@kip_pout George its 8 in the morning. We're having breakfast for breakfast."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/alula:1:159:text
+msgid "@kip_sigh ...lemme guess, you pulled an allnighter on those manuscripts again?"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/alula:1:160:text
+msgid "@george6_point You know it babe!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/alula:1:161:text
+msgid "@george6_shrug  ...breakfast for dinner for breakfast"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/alula:1:164:text
+msgid "@niko_83c ...for lunch! \\>\\n\\@niko6 (because we already ate)"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/alula:1:171:text
+msgid "@cedric_smile Pancakes... that makes me nostalgic!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/alula:1:174:text
+msgid "@rue_smile Haha, we haven't seen them in a long time, have we?"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/alula:1:177:text
+msgid "@cedric4 ...Yeah."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/alula:1:183:text
+msgid "@alula_speak What are you two whispering about?"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/alula:1:186:text
+msgid "@rue_smile ...Just reminiscing."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/alula:1:187:text
+msgid "@rue Niko."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/alula:1:190:text
+msgid "@niko6 Hm?"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/alula:1:191:text
+msgid "@rue_smile These must be important to you!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/alula:1:192:text
+msgid "@niko2 Of course! \\>\\n\\@niko_speak This is my mama's special recipe!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/alula:1:193:text
+msgid "@niko_pancakes They're my favorite thing to eat ever!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/alula:1:194:text
+msgid "@rue_smile Ah! How wonderful!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/alula:1:200:text
+msgid "@proto1b [You don't wanna know how long these took to make, though.]"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/alula:1:203:text
+msgid "@proto2 [....I was there.]"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/alula:1:204:text
+msgid "@rue_smile But that time is not wasted if you spent it on something you care about!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/alula:1:208:text
+msgid "@ling_smile It's true!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/alula:1:211:text
+msgid "@ling These pancakes turned out really good BECAUSE we spent a lot of time on them!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/alula:1:217:text
+msgid "@george6_point Siiiick."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/alula:1:220:text
+msgid "@niko_eyeclosed They won't make you sick!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/alula:1:223:text
+msgid "@niko_83c ...unless you eat one hundred of them!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/alula:1:226:text
+msgid "@proto2 [5500 grams.]"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/alula:1:232:text
+msgid "@kip Ooh, that sounds amazing!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/alula:1:235:text
+msgid "@niko_speak Eating a hundred pancakes?"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/alula:1:236:text
+msgid "@kip_wink If they're as good as you say, we just might!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/alula:1:239:text
+msgid "@kip_heh ...collectively."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/alula:1:240:text
+msgid "@kip_wink I can't eat a hundred pancakes by myself!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/alula:1:243:text
+msgid "@george6_point That's quitter talk!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/alula:1:244:text
+msgid "@george6 ...Speaking of whom!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/alula:1:250:text
+msgid "@george6_point Lamp man!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/alula:1:253:text
+msgid "@plight_worry (....I have a name-"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/alula:1:254:text
+msgid "@george6_shrug You're not gonna bail on us again, are ya?"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/alula:1:257:text
+msgid "@plight Um...\\>\\n\\@plight_2 I was just gonna go back to work, but..."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/alula:1:260:text
+msgid "@plight_worry (...I guess everyone is staying so it'd be super awkward if I left now)"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/alula:1:261:text
+msgid "@plight ...yeah sure I'll stay."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/alula:1:268:text
+msgid "@alula_speak I could go for second breakfast!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/alula:1:269:text
+msgid "@alula_eyeclosed I am a growing baby bird and my body demands nutrients"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/alula:1:272:text
+msgid "@calamus_heh Nutrients? But it’s mostly just sugar…"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/alula:1:273:text
+msgid "@calamus_smile ...Eh, it’s a party so who cares?"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/alula:1:276:text
+msgid "@cedric_smile Sugar is a nutrient, technically!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/alula:1:277:text
+msgid "@alula_gasp THAT MEANS WE GET TO EAT AS MUCH AS WE WANT"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/alula:1:281:text
+msgid "@mason Haha! That's the spirit!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/alula:1:284:text
+msgid "@magpie_smile Spirit? There are no spirits here!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/alula:1:287:text
+msgid "@magpie (under his breath) I'm talking about booze."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/alula:1:288:text
+msgid "@magpie_hm ..."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/alula:1:291:text
+msgid "@calamus_sad Magpie we just SAID it's like 8 in the morning."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/alula:1:294:text
+msgid "@magpie_oh What? I'm not getting much! Just a shot!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/alula:1:295:text
+msgid "@magpie Just one"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/alula:1:298:text
+msgid "@magpie One shot."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/alula:1:301:text
+msgid "@kip_heh I don't think this is the right kind of establishment for booze..."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/alula:1:304:text
+msgid "@magpie_smile OneShot."
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/alula:1:309:text
+msgid "@ling_smile Kip's right, we just have breakfast foods here, mostly!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/alula:1:312:text
+msgid "@niko_speak Like the hundreds of pancakes coming up!\\>\\n\\@niko6 Or however many orders we get.\\>\\n\\@niko_speak Let's not keep everyone waiting!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/alula:1:313:text
+msgid "@ling_smile Ok! I'll go back to work then! See you in a bit!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/alula:1:322:text
+msgid "@niko_speak Hey!! I said I wanna help! Don't start without me!"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/alula:1:333:text
+msgid "@magpie OneShot"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/alula:1:341:text
+msgid "10TH ANNIVERSARY"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/alula:1:342:text
+msgid "THANK YOU FOR PLAYING"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/alula:1:343:text
+msgid "THANK YOU FOR ALL YOUR SUPPORT IN THE LAST 10 YEARS"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/alula:1:344:text
+msgid "Credits\\nProgramming: GIRakaCHEEZER\\nTitlescreen Art: Sheaparfait\\nAll other art: nightmargin"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/alula:1:345:text
+msgid "Writing: nightmargin\\nMusic: nightmargin, GIRakaCHEEZER\\nPancake Recipe: nightmargin"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/alula:1:346:text
+msgid "OneShot original concept: Nightmargin, Eliza Velasquez, and GIRakaCHEEZER\\nNiko Plush: Available on fangamer!\\nAnniversary merch: mothparfait.bigcartel.com"
+msgstr ""
+
+#: Maps/Red sky/Cafe/Cafe inside/alula:1:347:text
+msgid "SEE YOU NEXT TIME!"
+msgstr ""
+

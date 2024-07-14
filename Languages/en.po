@@ -1,0 +1,12 @@
+
+# Translation template for OneShot
+msgid ""
+msgstr ""
+
+# Language code
+msgid "en"
+msgstr "English"
+
+# version string
+msgid "POT_VERSION"
+msgstr "en.1"
