@@ -1,11 +1,11 @@
-# Русский перевод OneShot TPE
+# Полностью русский перевод OneShot TPE
 
 msgid ""
 msgstr ""
 
 # Language code
-msgid "ru"
-msgstr "Русский"
+msgid "ruf"
+msgstr "Альт. русский"
 
 #. actor name
 #: Actors:1
@@ -113,7 +113,7 @@ msgstr "Настройки"
 
 #: Scripts/Window_Settings:149 Scripts/Window_Settings:229
 msgid "POT_VERSION"
-msgstr "ru.1"
+msgstr "ruf.1"
 
 #: Scripts/Window_Settings:179 Scripts/Window_Settings:191 Scripts/Window_Settings:197 Scripts/Window_Settings:203
 msgid "ON"
