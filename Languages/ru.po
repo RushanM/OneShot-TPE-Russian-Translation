@@ -197,7 +197,7 @@ msgstr "ИМЕНА_МЕРЗКИЕ"
 
 #: Scripts/EdText:3
 msgid "Do you understand what this means?"
-msgstr "Вы понимаете, что это значит?"
+msgstr "Вы понимаете, что оно значит?"
 
 #: CommonEvents/DEBUG SAVE:0:choice:0
 msgid "SAVE?"
