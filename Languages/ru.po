@@ -137,7 +137,7 @@ msgstr "Нажмите X, чтобы удалить символы (управл
 
 #: Scripts/Window_MainMenu:135
 msgid "You cannot fast travel right now."
-msgstr "В данный момент вам недоступно быстрое перемещение."
+msgstr "Быстрое перемещение сейчас недоступно."
 
 #: Scripts/Scene_Title:78 Scripts/Scene_Title:138
 msgid "Start"
@@ -197,7 +197,7 @@ msgstr "ИМЕНА_МЕРЗКИЕ"
 
 #: Scripts/EdText:3
 msgid "Do you understand what this means?"
-msgstr "Вы понимаете, что оно значит?"
+msgstr "Вы понимаете, что это значит?"
 
 #: CommonEvents/DEBUG SAVE:0:choice:0
 msgid "SAVE?"
@@ -221,7 +221,7 @@ msgstr "@plight_worry 1 минуту."
 
 #: CommonEvents/plight is waiting:7:text
 msgid "@plight_worry \\v[29] minutes."
-msgstr "@plight_worry \v[29] минут."
+msgstr "@plight_worry \\v[29] минут."
 
 #: CommonEvents/plight is waiting:14:text
 msgid "@plight_worry 1 minute and 1 second."
@@ -229,23 +229,23 @@ msgstr "@plight_worry 1 минуту и 1 секунду."
 
 #: CommonEvents/plight is waiting:17:text
 msgid "@plight_worry \\v[29] minutes and 1 second."
-msgstr "@plight_worry \v[29] минут и 1 секунду."
+msgstr "@plight_worry \\v[29] минут и 1 секунду."
 
 #: CommonEvents/plight is waiting:23:text
 msgid "@plight_worry 1 minute and \\v[30] seconds."
-msgstr "@plight_worry 1 минуту и \v[30] секунд."
+msgstr "@plight_worry 1 минуту и \\v[30] секунд."
 
 #: CommonEvents/plight is waiting:26:text
 msgid "@plight_worry \\v[29] minutes and \\v[30] seconds."
-msgstr "@plight_worry \v[29] минут и \v[30] секунд."
+msgstr "@plight_worry \\v[29] минут и \\v[30] секунд."
 
 #: CommonEvents/ling random dialogue:3:text
 msgid "@niko Pancakes are MY favorite food,\\> \\@niko_speak but what's yours?"
-msgstr "@niko Блинчики — МОЯ любимая еда,\> \@niko_speak а какая твоя?"
+msgstr "@niko Блинчики — МОЯ любимая еда,\\> \\@niko_speak а какая твоя?"
 
 #: CommonEvents/ling random dialogue:4:text
 msgid "@ling_hm Good question!\\>\\n\\@ling I'm not sure if I have one..."
-msgstr "@ling_hm Вопрос хороший!\>\n\@ling Не уверен, что знаю на него ответ…"
+msgstr "@ling_hm Вопрос хороший!\\>\\n\\@ling Не уверен, что знаю на него ответ…"
 
 #: CommonEvents/ling random dialogue:5:text
 msgid "@ling_smile ...because it changes all the time!"
@@ -285,67 +285,67 @@ msgstr "@niko_83c Я так делаю с сиропом и молоком!"
 
 #: CommonEvents/ling random dialogue:23:text
 msgid "@ling_oh I gotta admit, I had trouble finding hazelnut flour... \\>\\@ling_smile So I just made my own!"
-msgstr ""
+msgstr "@ling_oh Должен признаться, было трудно найти ореховую муку… \\>\\@ling_smile Так что я сделал свою!"
 
 #: CommonEvents/ling random dialogue:24:text
 msgid "@niko_speak Oh, that's what mama does too!"
-msgstr ""
+msgstr "@niko_speak О, моя мама делает также!"
 
 #: CommonEvents/ling random dialogue:25:text
 msgid "@niko5 She uses a motor and pesto for it."
-msgstr ""
+msgstr "@niko5 Она использует мотор и песто."
 
 #: CommonEvents/ling random dialogue:26:text
 msgid "@proto1b [Mortar and pestle.]"
-msgstr ""
+msgstr "@proto1b [Ступку и пестик.]"
 
 #: CommonEvents/ling random dialogue:27:text Maps/Red sky/Cafe/Cafe inside/Kitchen/EV020:3:80:text
 msgid "@niko_eyeclosed ...I knew that!"
-msgstr ""
+msgstr "@niko_eyeclosed …Я так и хотел сказать!"
 
 #: CommonEvents/ling random dialogue:28:text
 msgid "@ling_smile I just use a food processor!"
-msgstr ""
+msgstr "@ling_smile Я просто воспользуюсь кухонным комбайном!"
 
 #: CommonEvents/ling random dialogue:29:text
 msgid "@ling_hm You think it would work with almond flour too?"
-msgstr ""
+msgstr "@ling_hm Как думаешь, он сработает с миндальной мукой?"
 
 #: CommonEvents/ling random dialogue:30:text
 msgid "@niko_speak Probably!"
-msgstr ""
+msgstr "@niko_speak Наверное!"
 
 #: CommonEvents/ling random dialogue:31:text
 msgid "@niko_eyeclosed But I like hazelnuts!"
-msgstr ""
+msgstr "@niko_eyeclosed Но я люблю лесные орехи!"
 
 #: CommonEvents/ling random dialogue:34:text
 msgid "@niko I know fire is dangerous, but I like looking at it!"
-msgstr ""
+msgstr "@niko Я знаю, что огонь опасен, но я люблю наблюдать за ним!"
 
 #: CommonEvents/ling random dialogue:35:text
 msgid "@ling_smile I know!"
-msgstr ""
+msgstr "@ling_smile Я тоже!"
 
 #: CommonEvents/ling random dialogue:36:text
 msgid "@ling Did you know that you can start a fire with just sunlight and a magnifying glass?"
-msgstr ""
+msgstr "@ling Ты знал, что развести огонь можно всего лишь используя солнечный свет и увеличительное стекло?"
 
 #: CommonEvents/ling random dialogue:37:text
 msgid "@niko_pancakes REALLY??"
-msgstr ""
+msgstr "@niko_pancakes ПРАВДА???"
 
 #: CommonEvents/ling random dialogue:38:text Maps/Red sky/Cafe/Cafe inside/Kitchen/EV017:3:3:text
 msgid "@ling_smile Yup!"
-msgstr ""
+msgstr "@ling_smile Угу!"
 
 #: CommonEvents/ling random dialogue:39:text
 msgid "@ling But don't try it on your own, okay?"
-msgstr ""
+msgstr "@ling Но не делай этого сам, хорошо?"
 
 #: CommonEvents/ling random dialogue:40:text
 msgid "@niko_eyeclosed Of course not!"
-msgstr ""
+msgstr "@niko_eyeclosed Конечно!"
 
 #: CommonEvents/ling random dialogue:41:text
 msgid "@niko5 (But for some reason, all of a sudden I wish I still had the sun...)"
