@@ -2,10 +2,6 @@
 <div align="center">
     <img title="В будущем заменю эту картинку" src="Graphics/Titles/ru/normal.png">
     <br>
-    <br>
-    <!--<a href="https://github.com/RushanM/Minecraft-Mods-Russian-Translation/wiki/%D0%9F%D0%BE%D0%BC%D0%BE%D1%89%D1%8C-%D1%81-%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4%D0%BE%D0%BC">
-        <img height="38" src="Разное/translate.svg">
-    </a>-->
 </div>
 
 ## 📢 Перевод официального описания
