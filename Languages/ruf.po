@@ -2573,103 +2573,103 @@ msgstr "@ling_smile Всем привет!"
 
 #: Maps/INIT/init:1:18:text
 msgid "@ling_smile As you know, it's the 10 year anniversary of OneShot!"
-msgstr ""
+msgstr "@ling_smile Как вы знаете, сегодня 10-й юбилей OneShot!"
 
 #: Maps/INIT/init:1:19:text
 msgid "@ling_oh (...well, the original version, anyway)"
-msgstr ""
+msgstr "@ling_oh (ну, оригинальной версии, во всяком случае)"
 
 #: Maps/INIT/init:1:21:text
 msgid "@ling_smile So I thought I'd decorate the cafe!"
-msgstr ""
+msgstr "@ling_smile И я подумал, почему бы не украсить кафе по этому случаю!"
 
 #: Maps/INIT/init:1:22:text
 msgid "@ling_hm We opened extra early today, so nobody's shown up yet."
-msgstr ""
+msgstr "@ling_hm Сегодня мы открылись раньше обычного, поэтому никто ещё не пришёл."
 
 #: Maps/INIT/init:1:24:text
 msgid "@niko_83c Except me!"
-msgstr ""
+msgstr "@niko_83c Кроме меня!"
 
 #: Maps/INIT/init:1:32:text
 msgid "@niko_eyeclosed Ok that’s enough."
-msgstr ""
+msgstr "@niko_eyeclosed Ладно, хватит."
 
 #: Maps/Red sky/Cafe/EV004:1:1:text Maps/Red sky/Cafe/EV006:1:1:text
 msgid "CAFE"
-msgstr ""
+msgstr "КАФЕ"
 
 #: Maps/Red sky/Cafe/EV007:1:1:text Maps/Red sky/Cafe/EV008:1:1:text
 msgid "MEOW"
-msgstr ""
+msgstr "МЯУ"
 
 #: Maps/Red sky/Cafe/Cafe inside/ling:1:1:text
 msgid "@niko_speak I'm here on a very special mission today!"
-msgstr ""
+msgstr "@niko_speak Я здесь по очень важной миссии!"
 
 #: Maps/Red sky/Cafe/Cafe inside/ling:1:4:text
 msgid "@niko_83c Can you guess what it is?"
-msgstr ""
+msgstr "@niko_83c Сможете угадать, какой?"
 
 #: Maps/Red sky/Cafe/Cafe inside/ling:1:5:text
 msgid "@ling_hm2 Hmmm...."
-msgstr ""
+msgstr "@ling_hm2 Хммм…"
 
 #: Maps/Red sky/Cafe/Cafe inside/ling:1:6:text
 msgid "@ling Does it involve... a celebration cake?\\>\\n\\@ling_smile Of the pan variety?"
-msgstr ""
+msgstr "@ling Дай угадаю…, это связано с праздничным тортом?\\>\\n\\@ling_smile Ну или с блинами?"
 
 #: Maps/Red sky/Cafe/Cafe inside/ling:1:7:text
 msgid "@niko_pancakes How'd you know?"
-msgstr ""
+msgstr "@niko_pancakes Как ты угадал?"
 
 #: Maps/Red sky/Cafe/Cafe inside/ling:1:8:text
 msgid "@ling_hm You uh.\\..\\..\\. literally told me a minute ago before the camera turned on."
-msgstr ""
+msgstr "@ling_hm Ну ты буквально.\\..\\..\\. сказал мне это минуту назад, до того как мы включили камеру."
 
 #: Maps/Red sky/Cafe/Cafe inside/ling:1:9:text
 msgid "@niko5 Oh right."
-msgstr ""
+msgstr "@niko5 Ах, точно."
 
 #: Maps/Red sky/Cafe/Cafe inside/ling:1:12:text
 msgid "@niko_eyeclosed ...Ahem."
-msgstr ""
+msgstr "@niko_eyeclosed …Кхм."
 
 #: Maps/Red sky/Cafe/Cafe inside/ling:1:13:text
 msgid "@niko Today....\\>\\n\\@niko_speak I will be showing everyone....\\>\\n\\@niko_pancakes how to make mama's special pancakes!"
-msgstr ""
+msgstr "@niko Сегодня…\\>\\n\\@niko_speak я покажу всем…,\\>\\n\\@niko_pancakes как приготовить особые блины моей мамы!"
 
 #: Maps/Red sky/Cafe/Cafe inside/ling:1:14:text
 msgid "@ling_smile And I'll be-"
-msgstr ""
+msgstr "@ling_smile А я буду-"
 
 #: Maps/Red sky/Cafe/Cafe inside/ling:1:15:text
 msgid "@niko_speak And he'll be helping!"
-msgstr ""
+msgstr "@niko_speak А он будет помогать!"
 
 #: Maps/Red sky/Cafe/Cafe inside/ling:1:16:text
 msgid "@niko_eyeclosed Because he's a grownup and I'm not old enough to use the stove without adult supervision."
-msgstr ""
+msgstr "@niko_eyeclosed Потому что он взрослый, а мне слишком рано пользоваться плитой без присмотра взрослых."
 
 #: Maps/Red sky/Cafe/Cafe inside/ling:1:17:text
 msgid "@ling_oh ...but didn't you like, set things on fire before?"
-msgstr ""
+msgstr "@ling_oh …Но разве ты не поджигал вещи раньше?"
 
 #: Maps/Red sky/Cafe/Cafe inside/ling:1:20:text
 msgid "@niko_83c I think god counts as adult supervision."
-msgstr ""
+msgstr "@niko_83c Мне кажется, бог считается взрослым."
 
 #: Maps/Red sky/Cafe/Cafe inside/ling:1:21:text
 msgid "@ling_hm ....yeah that's fair."
-msgstr ""
+msgstr "@ling_hm …Справедливо."
 
 #: Maps/Red sky/Cafe/Cafe inside/ling:1:22:text
 msgid "@ling Alright, then follow me to the kitchen!"
-msgstr ""
+msgstr "@ling Ладно, тогда идём со мной на кухню!"
 
 #: Maps/Red sky/Cafe/Cafe inside/ling:1:23:text
 msgid "@niko_speak 'kay!"
-msgstr ""
+msgstr "@niko_speak Окей!"
 
 #: Maps/Red sky/Cafe/Cafe inside/ling:3:4:text
 msgid "@ling_shock Oh no!\\> I completely forgot we were open early today!"
