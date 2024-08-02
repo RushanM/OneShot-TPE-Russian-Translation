@@ -2577,7 +2577,7 @@ msgstr "@ling_smile Как вы знаете, сегодня 10-й юбилей 
 
 #: Maps/INIT/init:1:19:text
 msgid "@ling_oh (...well, the original version, anyway)"
-msgstr "@ling_oh (ну, оригинальной версии, во всяком случае)"
+msgstr "@ling_oh (…ну, оригинальной версии, во всяком случае)"
 
 #: Maps/INIT/init:1:21:text
 msgid "@ling_smile So I thought I'd decorate the cafe!"
