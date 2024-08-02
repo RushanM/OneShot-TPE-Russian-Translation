@@ -2573,7 +2573,7 @@ msgstr "@ling_smile Всем привет!"
 
 #: Maps/INIT/init:1:18:text
 msgid "@ling_smile As you know, it's the 10 year anniversary of OneShot!"
-msgstr "@ling_smile Как вы знаете, сегодня 10-й юбилей OneShot!"
+msgstr "@ling_smile Как вы знаете, сегодня 10-я годовщина OneShot!"
 
 #: Maps/INIT/init:1:19:text
 msgid "@ling_oh (...well, the original version, anyway)"
@@ -2609,7 +2609,7 @@ msgstr "@niko_speak Я здесь по очень важной миссии!"
 
 #: Maps/Red sky/Cafe/Cafe inside/ling:1:4:text
 msgid "@niko_83c Can you guess what it is?"
-msgstr "@niko_83c Сможете угадать, какой?"
+msgstr "@niko_83c Знаете, какой?"
 
 #: Maps/Red sky/Cafe/Cafe inside/ling:1:5:text
 msgid "@ling_hm2 Hmmm...."
@@ -3269,15 +3269,15 @@ msgstr ""
 
 #: Maps/Red sky/Cafe/Cafe inside/alula:1:333:text
 msgid "@magpie OneShot"
-msgstr ""
+msgstr "@magpie OneShot"
 
 #: Maps/Red sky/Cafe/Cafe inside/alula:1:341:text
 msgid "10TH ANNIVERSARY"
-msgstr ""
+msgstr "10-Я ГОДОВЩИНА"
 
 #: Maps/Red sky/Cafe/Cafe inside/alula:1:342:text
 msgid "THANK YOU FOR PLAYING"
-msgstr ""
+msgstr "СПАСИБО, ЧТО ИГРАЛИ"
 
 #: Maps/Red sky/Cafe/Cafe inside/alula:1:343:text
 msgid "THANK YOU FOR ALL YOUR SUPPORT IN THE LAST 10 YEARS"
