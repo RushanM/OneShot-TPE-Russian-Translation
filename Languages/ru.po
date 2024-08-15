@@ -349,107 +349,107 @@ msgstr "@niko_eyeclosed Конечно!"
 
 #: CommonEvents/ling random dialogue:41:text
 msgid "@niko5 (But for some reason, all of a sudden I wish I still had the sun...)"
-msgstr ""
+msgstr "@niko5 (Но почему-то мне вдруг захотелось, чтобы у меня по прежнему было солнце…)"
 
 #: CommonEvents/ling random dialogue:42:text
 msgid "@proto2 [I'm surrounded by lunatics.]"
-msgstr ""
+msgstr "@proto2 [Я окружён сумасшедшими.]"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:1:1:text
 msgid "@ling_smile This is the kitchen!"
-msgstr ""
+msgstr "@ling_smile Это кухня!"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:1:2:text
 msgid "@ling I cleaned it up pretty good.\\> \\@ling_smile You'd never know that we had a fire last week!"
-msgstr ""
+msgstr "@ling Я хорошо её почистил.\\> \\@ling_smile Ты никогда не узнаешь, что на прошлой неделе у нас был пожар!"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:1:3:text
 msgid "@niko_what Another one?"
-msgstr ""
+msgstr "@niko_what Ещё один?"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:1:4:text
 msgid "@ling_sigh Right?"
-msgstr ""
+msgstr "@ling_sigh Да?"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:1:5:text
 msgid "@ling_hm Robots are surprisingly flammable."
-msgstr ""
+msgstr "@ling_hm Роботы удивительно огнеопасны."
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:1:text
 msgid "@ling_hm2 My coworkers aren't here because they're still getting repaired for fire damage, so we won't have extra help today."
-msgstr ""
+msgstr "@ling_hm2 Моих коллег здесь нет, так как они все ещё в ремонте после пожара, поэтому сегодня у нас не будет дополнительной помощи."
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:2:text
 msgid "@ling Do you think you can handle it?"
-msgstr ""
+msgstr "@ling Как думаешь, справишься?"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:3:text
 msgid "@niko_speak Of course! I help mama out in the kitchen all the time!"
-msgstr ""
+msgstr "@niko_speak Конечно! Я всегда помогаю маме на кухне!"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:4:text
 msgid "@niko_pancakes ESPECIALLY when making pancakes!"
-msgstr ""
+msgstr "@niko_pancakes ОСОБЕННО когда делаю блинчики!"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:5:text
 msgid "@niko_83c I even wrote down the recipe!"
-msgstr ""
+msgstr "@niko_83c Я даже записал рецепт!"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:11:text
 msgid "@ling_shock Whoa! So many pages!"
-msgstr ""
+msgstr "@ling_shock Ого! Так много страниц!"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:12:text
 msgid "@ling_hm And... surprisingly legible (for crayon)."
-msgstr ""
+msgstr "@ling_hm И… удивительно разборчиво (для мела)."
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:13:text
 msgid "@niko_eyeclosed Like I said, these pancakes are VERY special! So I wrote a lot!"
-msgstr ""
+msgstr "@niko_eyeclosed Как я уже говорил, эти блинчики ОЧЕНЬ особенные! Поэтому я написал очень много!"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:14:text
 msgid "@niko_pancakes It takes mama a long time to make, start to finish!"
-msgstr ""
+msgstr "@niko_pancakes У мамы уходит много времени на их приготовление, от начала и до конца!"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:15:text
 msgid "@niko_speak She even makes the syrup herself!"
-msgstr ""
+msgstr "@niko_speak Она даже сироп готовит сама!"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:16:text
 msgid "@ling_smile Wow! \\>\\@ling Sounds like a lot of work!"
-msgstr ""
+msgstr "@ling_smile Вау! \\>\\@ling Звучит как большая работа!"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:17:text
 msgid "@niko_eyeclosed Sometimes... in life.... you gotta work hard..."
-msgstr ""
+msgstr "@niko_eyeclosed Иногда… в жизни…, нужно усердно трудиться…"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:18:text
 msgid "@ling Oh!\\> It says here that we would need \"cups\" of things?"
-msgstr ""
+msgstr "@ling Ох!\\> Здесь говорится, что нам нужны \«чашки\» вещей?"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:19:text
 msgid "@ling_hm What are....\\> \"cups\"?"
-msgstr ""
+msgstr "@ling_hm Что такое…\\> \«чашки\»?"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:20:text
 msgid "@niko_speak ..."
-msgstr ""
+msgstr "@niko_speak …"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:21:text
 msgid "@ling_oh ..."
-msgstr ""
+msgstr "@ling_oh …"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:22:text
 msgid "@niko_what2 Measuring...\\> cups?"
-msgstr ""
+msgstr "@niko_what2 Мерные…\\> чашки?"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:23:text
 msgid "@ling_shock You have to measure cups?"
-msgstr ""
+msgstr "@ling_shock Вы отмеряете в чашках?"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:24:text
 msgid "@ling_hm2 ...not sure if I get it!"
-msgstr ""
+msgstr "@ling_hm2 …Не уверен, что понял!"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:25:text
 msgid "@niko_what ...\\>don't you cook for your job?"
