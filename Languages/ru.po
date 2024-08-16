@@ -421,7 +421,7 @@ msgstr "@ling_smile Вау! \\>\\@ling Звучит как большая раб
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:17:text
 msgid "@niko_eyeclosed Sometimes... in life.... you gotta work hard..."
-msgstr "@niko_eyeclosed Иногда… в жизни…, нужно усердно трудиться…"
+msgstr "@niko_eyeclosed Иногда… в жизни… нужно усердно трудиться…"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:18:text
 msgid "@ling Oh!\\> It says here that we would need \"cups\" of things?"
@@ -453,127 +453,129 @@ msgstr "@ling_hm2 …Не уверен, что понял!"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:25:text
 msgid "@niko_what ...\\>don't you cook for your job?"
-msgstr ""
+msgstr "@niko_what …\\>Разве готовка не твоя работа?"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:26:text
 msgid "@niko_what2 How do you cook without measuring cups?\\> Or measuring spoons?"
-msgstr ""
+msgstr "@niko_what2 Как ты готовишь без мерных чашек?\\> Или мерных ложек?"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:27:text
 msgid "@niko_what How do you know how much flour to use?"
-msgstr ""
+msgstr "@niko_what Как ты знаешь, сколько муки тебе нужно?"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:28:text
 msgid "@ling_hm I...\\> weigh it?"
-msgstr ""
+msgstr "@ling_hm Я…\\> взвешиваю?"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:29:text
 msgid "@niko_speak ...Oh yeah!"
-msgstr ""
+msgstr "@niko_speak …Точно!"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:30:text
 msgid "@niko6 I hear that people in the city do that!"
-msgstr ""
+msgstr "@niko6 Я слышал, что люди в городе делают также!"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:31:text
 msgid "@niko_eyeclosed Sounds like a hassle...\\>\\nThey'd have to use a scale every time they cook...."
-msgstr ""
+msgstr "@niko_eyeclosed Звучит сложно…\\>\\nИм приходится использовать весы каждый раз при готовке…"
+
+# TODO: Проверить перевод 4 строк внизу
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:32:text
 msgid "@ling_smile Well, we do live in a city!"
-msgstr ""
+msgstr "@ling_smile Ну, мы живём в городе!"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:33:text
 msgid "@niko_speak Nono, not YOUR city, MY city!"
-msgstr ""
+msgstr "@niko_speak Нене, не ТВОЙ город, а МОЙ город!"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:34:text
 msgid "@niko6 The cities we have back home!"
-msgstr ""
+msgstr "@niko6 Города, что есть у нас дома!"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:35:text
 msgid "@ling Right!"
-msgstr ""
+msgstr "@ling Верно!"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:36:text
 msgid "@niko5 Using a scale all the time sounds hard!"
-msgstr ""
+msgstr "@niko5 Постоянно пользоваться весами - звучит сложно!"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:37:text
 msgid "@niko_eyeclosed It'd be much easier if we had measuring cups and spoons..."
-msgstr ""
+msgstr "@niko_eyeclosed Было бы намного проще, если бы у нас были мерные чашки и ложки…"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:38:text
 msgid "@ling_oh I still don't know what those are, though!"
-msgstr ""
+msgstr "@ling_oh Я все ещё не знаю, что это такое!"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:39:text
 msgid "@ling_hm Like, amount-wise."
-msgstr ""
+msgstr "@ling_hm В смысле количества."
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:40:text
 msgid "@niko5 ...Maybe we need to get some help."
-msgstr ""
+msgstr "@niko5 …Может быть, нам нужна помощь."
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:41:text
 msgid "@niko_eyeclosed Hold on."
-msgstr ""
+msgstr "@niko_eyeclosed Погоди."
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:54:text
 msgid "@ling_smile ...Oh, you brought a friend!"
-msgstr ""
+msgstr "@ling_smile …О, ты привёл друга!"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:55:text
 msgid "@niko_speak Yup! And he's willing to help us!"
-msgstr ""
+msgstr "@niko_speak Ага! И он готов нам помочь!"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:56:text
 msgid "@proto2b [\"Willing\" isn't exactly the right word here.]"
-msgstr ""
+msgstr "@proto2b [\"Готов\" здесь не совсем подходящее слово.]"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:57:text Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:7:38:text
 msgid "@niko_83c ..."
-msgstr ""
+msgstr "@niko_83c …"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:3:4:text
 msgid "@ling2 Oh, hello!"
-msgstr ""
+msgstr "@ling2 О, привет!"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:3:5:text
 msgid "@ling I don't think I've seen you around before.\\>\\n\\@ling_smile Nice to meet you!"
-msgstr ""
+msgstr "@ling Не думаю, что видел тебя раньше.\\>\\n\\@ling_smile Приятно познакомиться!"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:3:8:text
 msgid "@proto2 [Don't get your hopes up.\\>\\n\\@proto1c I don't DO \"nice\".]"
-msgstr ""
+msgstr "@proto2 [Не надейтесь на хорошее.\\>\\n\\@proto1c Я не ДЕЛАЮ \"хорошо\".]"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:3:9:text
 msgid "@niko_83c That's just what he wants you to think!"
-msgstr ""
+msgstr "@niko_83c Он только хочет, чтобы ты так думал!"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:3:10:text
 msgid "@proto_jealous [Hush.]"
-msgstr ""
+msgstr "@proto_jealous [Тихо.]"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:3:16:text
 msgid "@niko_speak Now that Proto's here to help us, we can continue!"
-msgstr ""
+msgstr "@niko_speak Теперь, когда Прото здесь, чтобы нам помочь, мы можем продолжить!"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:3:21:text
 msgid "@ling_smile For those of you following along, you would need a gram scale!"
-msgstr ""
+msgstr "@ling_smile Для тех, кто следит за нами, вам понадобятся граммовые весы!"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:3:22:text
 msgid "@niko_speak But if you have measuring cups and spoons like I do at home, you could use those instead!"
-msgstr ""
+msgstr "@niko_speak Но если у вас дома есть мерные чашки и ложки, как у меня, вы можете пользоваться ими!"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:3:23:text
 msgid "@niko_83c It would probably be a lot easier!"
-msgstr ""
+msgstr "@niko_83c Это было бы намного проще!"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:3:24:text
 msgid "@ling Next up is ingredients!"
-msgstr ""
+msgstr "@ling Далее - ингредиенты!"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:3:28:text
 msgid "@ling_smile Since this recipe is so long, we should probably split it into 3 parts!"
