@@ -347,9 +347,11 @@ msgstr "@ling Но не делай этого сам, хорошо?"
 msgid "@niko_eyeclosed Of course not!"
 msgstr "@niko_eyeclosed Конечно!"
 
+# TODO
+
 #: CommonEvents/ling random dialogue:41:text
 msgid "@niko5 (But for some reason, all of a sudden I wish I still had the sun...)"
-msgstr "@niko5 (Но почему-то мне вдруг захотелось, чтобы у меня по прежнему было солнце…)"
+msgstr ""
 
 #: CommonEvents/ling random dialogue:42:text
 msgid "@proto2 [I'm surrounded by lunatics.]"
@@ -361,7 +363,7 @@ msgstr "@ling_smile Это кухня!"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:1:2:text
 msgid "@ling I cleaned it up pretty good.\\> \\@ling_smile You'd never know that we had a fire last week!"
-msgstr "@ling Я хорошо её почистил.\\> \\@ling_smile Ты никогда не узнаешь, что на прошлой неделе у нас был пожар!"
+msgstr "@ling Я хорошо её почистил.\\> \\@ling_smile Ты и не поймёшь, что на прошлой неделе у нас был пожар!"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:1:3:text
 msgid "@niko_what Another one?"
@@ -405,7 +407,7 @@ msgstr "@ling_hm И… удивительно разборчиво (для ме�
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:13:text
 msgid "@niko_eyeclosed Like I said, these pancakes are VERY special! So I wrote a lot!"
-msgstr "@niko_eyeclosed Как я уже говорил, эти блинчики ОЧЕНЬ особенные! Поэтому я написал очень много!"
+msgstr "@niko_eyeclosed Как я уже говорил, эти блинчики ОЧЕНЬ особенные! Поэтому я расписал всё очень подробно!"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:14:text
 msgid "@niko_pancakes It takes mama a long time to make, start to finish!"
@@ -461,7 +463,7 @@ msgstr "@niko_what2 Как ты готовишь без мерных чашек?
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:27:text
 msgid "@niko_what How do you know how much flour to use?"
-msgstr "@niko_what Как ты знаешь, сколько муки тебе нужно?"
+msgstr "@niko_what Как ты узнаёшь, сколько муки тебе нужно?"-
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:28:text
 msgid "@ling_hm I...\\> weigh it?"
@@ -479,7 +481,7 @@ msgstr "@niko6 Я слышал, что люди в городе делают т�
 msgid "@niko_eyeclosed Sounds like a hassle...\\>\\nThey'd have to use a scale every time they cook...."
 msgstr "@niko_eyeclosed Звучит сложно…\\>\\nИм приходится использовать весы каждый раз при готовке…"
 
-# TODO: Проверить перевод 4 строк внизу
+# TODO 4 строки
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:32:text
 msgid "@ling_smile Well, we do live in a city!"
@@ -487,15 +489,15 @@ msgstr "@ling_smile Ну, мы живём в городе!"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:33:text
 msgid "@niko_speak Nono, not YOUR city, MY city!"
-msgstr "@niko_speak Нене, не ТВОЙ город, а МОЙ город!"
+msgstr ""
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:34:text
 msgid "@niko6 The cities we have back home!"
-msgstr "@niko6 Города, что есть у нас дома!"
+msgstr ""
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:35:text
 msgid "@ling Right!"
-msgstr "@ling Верно!"
+msgstr ""
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:36:text
 msgid "@niko5 Using a scale all the time sounds hard!"
@@ -527,11 +529,11 @@ msgstr "@ling_smile …О, ты привёл друга!"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:55:text
 msgid "@niko_speak Yup! And he's willing to help us!"
-msgstr "@niko_speak Ага! И он готов нам помочь!"
+msgstr "@niko_speak Ага! И он вызвался нам помочь!"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:56:text
 msgid "@proto2b [\"Willing\" isn't exactly the right word here.]"
-msgstr "@proto2b [\"Готов\" здесь не совсем подходящее слово.]"
+msgstr "@proto2b [\"Вызвался\" здесь не совсем подходящее слово.]"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:57:text Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:7:38:text
 msgid "@niko_83c ..."
@@ -545,9 +547,11 @@ msgstr "@ling2 О, привет!"
 msgid "@ling I don't think I've seen you around before.\\>\\n\\@ling_smile Nice to meet you!"
 msgstr "@ling Не думаю, что видел тебя раньше.\\>\\n\\@ling_smile Приятно познакомиться!"
 
+# TODO
+
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:3:8:text
 msgid "@proto2 [Don't get your hopes up.\\>\\n\\@proto1c I don't DO \"nice\".]"
-msgstr "@proto2 [Не надейтесь на хорошее.\\>\\n\\@proto1c Я не ДЕЛАЮ \"хорошо\".]"
+msgstr ""
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:3:9:text
 msgid "@niko_83c That's just what he wants you to think!"
@@ -563,11 +567,11 @@ msgstr "@niko_speak Теперь, когда Прото здесь, чтобы �
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:3:21:text
 msgid "@ling_smile For those of you following along, you would need a gram scale!"
-msgstr "@ling_smile Для тех, кто следит за нами, вам понадобятся граммовые весы!"
+msgstr "@ling_smile Для тех, кто следит за нами, понадобятся граммовые весы!"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:3:22:text
 msgid "@niko_speak But if you have measuring cups and spoons like I do at home, you could use those instead!"
-msgstr "@niko_speak Но если у вас дома есть мерные чашки и ложки, как у меня, вы можете пользоваться ими!"
+msgstr "@niko_speak Но если у вас дома есть мерные чашки и ложки, как и у меня, вы можете пользоваться ими!"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:3:23:text
 msgid "@niko_83c It would probably be a lot easier!"
